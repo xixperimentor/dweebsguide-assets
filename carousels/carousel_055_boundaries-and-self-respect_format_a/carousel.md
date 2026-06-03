@@ -42,4 +42,4 @@ Judge people partly by how they handle your no, not only by how they enjoy your 
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

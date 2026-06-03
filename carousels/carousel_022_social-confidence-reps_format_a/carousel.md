@@ -42,4 +42,4 @@ Shrink every confidence goal until you can complete it even on a mediocre day.
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

@@ -42,4 +42,4 @@ If the next step keeps getting deferred, stop pushing and let the pattern speak 
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

@@ -42,4 +42,4 @@ Choose social environments that fit your actual character strongly enough to let
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

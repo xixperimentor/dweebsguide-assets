@@ -42,4 +42,4 @@ After a strong date, ask not only whether you want more, but whether the dynamic
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

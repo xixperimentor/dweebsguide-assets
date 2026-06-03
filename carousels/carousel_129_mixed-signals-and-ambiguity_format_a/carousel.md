@@ -42,4 +42,4 @@ Judge mixed signals by the recurring pattern, not by the most flattering explana
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

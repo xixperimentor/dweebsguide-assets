@@ -42,4 +42,4 @@ Practice slowing your first three seconds in any interaction: feet planted, shou
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

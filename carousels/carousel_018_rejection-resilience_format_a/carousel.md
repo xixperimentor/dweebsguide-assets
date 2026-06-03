@@ -42,4 +42,4 @@ Track your reps, not just your wins: starts, invites, dates, follow-through, and
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

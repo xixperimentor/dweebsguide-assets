@@ -42,4 +42,4 @@ Focus this week on one behavior that signals steadiness rather than one image th
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

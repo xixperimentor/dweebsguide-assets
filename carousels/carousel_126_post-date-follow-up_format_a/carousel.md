@@ -42,4 +42,4 @@ Stop optimizing the hour and focus on writing something you can respect sending.
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

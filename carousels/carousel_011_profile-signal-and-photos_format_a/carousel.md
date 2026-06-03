@@ -42,4 +42,4 @@ Rewrite each prompt so a stranger could answer it with a story, tease, or strong
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

@@ -42,4 +42,4 @@ When you know you missed, name it in plain language before your ego starts barga
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

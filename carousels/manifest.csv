@@ -1,161 +1,161 @@
 carousel,topic,source_id,format,folder,slides,status
-001,BUMBLE CONVERSATION DESIGN,C001,format_a,carousels/carousel_001_bumble-conversation-design_format_a,5,READY_TO_REVIEW
-002,BUMBLE CONVERSATION DESIGN,C002,format_a,carousels/carousel_002_bumble-conversation-design_format_a,5,READY_TO_REVIEW
-003,BUMBLE CONVERSATION DESIGN,C003,format_a,carousels/carousel_003_bumble-conversation-design_format_a,5,READY_TO_REVIEW
-004,BUMBLE CONVERSATION DESIGN,C004,format_a,carousels/carousel_004_bumble-conversation-design_format_a,5,READY_TO_REVIEW
-005,TEXTING PRESSURE AND CLARITY,C005,format_a,carousels/carousel_005_texting-pressure-and-clarity_format_a,5,READY_TO_REVIEW
-006,TEXTING PRESSURE AND CLARITY,C006,format_a,carousels/carousel_006_texting-pressure-and-clarity_format_a,5,READY_TO_REVIEW
-007,TEXTING PRESSURE AND CLARITY,C007,format_a,carousels/carousel_007_texting-pressure-and-clarity_format_a,5,READY_TO_REVIEW
-008,TEXTING PRESSURE AND CLARITY,C008,format_a,carousels/carousel_008_texting-pressure-and-clarity_format_a,5,READY_TO_REVIEW
-009,PROFILE SIGNAL AND PHOTOS,C009,format_a,carousels/carousel_009_profile-signal-and-photos_format_a,5,READY_TO_REVIEW
-010,PROFILE SIGNAL AND PHOTOS,C010,format_a,carousels/carousel_010_profile-signal-and-photos_format_a,5,READY_TO_REVIEW
-011,PROFILE SIGNAL AND PHOTOS,C011,format_a,carousels/carousel_011_profile-signal-and-photos_format_a,5,READY_TO_REVIEW
-012,PROFILE SIGNAL AND PHOTOS,C012,format_a,carousels/carousel_012_profile-signal-and-photos_format_a,5,READY_TO_REVIEW
-013,FIRST DATE STRUCTURE,C013,format_a,carousels/carousel_013_first-date-structure_format_a,5,READY_TO_REVIEW
-014,FIRST DATE STRUCTURE,C014,format_a,carousels/carousel_014_first-date-structure_format_a,5,READY_TO_REVIEW
-015,FIRST DATE STRUCTURE,C015,format_a,carousels/carousel_015_first-date-structure_format_a,5,READY_TO_REVIEW
-016,FIRST DATE STRUCTURE,C016,format_a,carousels/carousel_016_first-date-structure_format_a,5,READY_TO_REVIEW
-017,REJECTION RESILIENCE,C017,format_a,carousels/carousel_017_rejection-resilience_format_a,5,READY_TO_REVIEW
-018,REJECTION RESILIENCE,C018,format_a,carousels/carousel_018_rejection-resilience_format_a,5,READY_TO_REVIEW
-019,REJECTION RESILIENCE,C019,format_a,carousels/carousel_019_rejection-resilience_format_a,5,READY_TO_REVIEW
-020,REJECTION RESILIENCE,C020,format_a,carousels/carousel_020_rejection-resilience_format_a,5,READY_TO_REVIEW
-021,SOCIAL CONFIDENCE REPS,C021,format_a,carousels/carousel_021_social-confidence-reps_format_a,5,READY_TO_REVIEW
-022,SOCIAL CONFIDENCE REPS,C022,format_a,carousels/carousel_022_social-confidence-reps_format_a,5,READY_TO_REVIEW
-023,SOCIAL CONFIDENCE REPS,C023,format_a,carousels/carousel_023_social-confidence-reps_format_a,5,READY_TO_REVIEW
-024,SOCIAL CONFIDENCE REPS,C024,format_a,carousels/carousel_024_social-confidence-reps_format_a,5,READY_TO_REVIEW
-025,BODY LANGUAGE AND PRESENCE,C025,format_a,carousels/carousel_025_body-language-and-presence_format_a,5,READY_TO_REVIEW
-026,BODY LANGUAGE AND PRESENCE,C026,format_a,carousels/carousel_026_body-language-and-presence_format_a,5,READY_TO_REVIEW
-027,BODY LANGUAGE AND PRESENCE,C027,format_a,carousels/carousel_027_body-language-and-presence_format_a,5,READY_TO_REVIEW
-028,BODY LANGUAGE AND PRESENCE,C028,format_a,carousels/carousel_028_body-language-and-presence_format_a,5,READY_TO_REVIEW
-029,PLAYFUL TENSION AND TEASING,C029,format_a,carousels/carousel_029_playful-tension-and-teasing_format_a,5,READY_TO_REVIEW
-030,PLAYFUL TENSION AND TEASING,C030,format_a,carousels/carousel_030_playful-tension-and-teasing_format_a,5,READY_TO_REVIEW
-031,PLAYFUL TENSION AND TEASING,C031,format_a,carousels/carousel_031_playful-tension-and-teasing_format_a,5,READY_TO_REVIEW
-032,PLAYFUL TENSION AND TEASING,C032,format_a,carousels/carousel_032_playful-tension-and-teasing_format_a,5,READY_TO_REVIEW
-033,STANDARDS AND DISCERNMENT,C033,format_a,carousels/carousel_033_standards-and-discernment_format_a,5,READY_TO_REVIEW
-034,STANDARDS AND DISCERNMENT,C034,format_a,carousels/carousel_034_standards-and-discernment_format_a,5,READY_TO_REVIEW
-035,STANDARDS AND DISCERNMENT,C035,format_a,carousels/carousel_035_standards-and-discernment_format_a,5,READY_TO_REVIEW
-036,STANDARDS AND DISCERNMENT,C036,format_a,carousels/carousel_036_standards-and-discernment_format_a,5,READY_TO_REVIEW
-037,SELF-RESPECT AND NON-NEEDINESS,C037,format_a,carousels/carousel_037_self-respect-and-non-neediness_format_a,5,READY_TO_REVIEW
-038,SELF-RESPECT AND NON-NEEDINESS,C038,format_a,carousels/carousel_038_self-respect-and-non-neediness_format_a,5,READY_TO_REVIEW
-039,SELF-RESPECT AND NON-NEEDINESS,C039,format_a,carousels/carousel_039_self-respect-and-non-neediness_format_a,5,READY_TO_REVIEW
-040,SELF-RESPECT AND NON-NEEDINESS,C040,format_a,carousels/carousel_040_self-respect-and-non-neediness_format_a,5,READY_TO_REVIEW
-041,APP FATIGUE AND PATTERN RESET,C041,format_a,carousels/carousel_041_app-fatigue-and-pattern-reset_format_a,5,READY_TO_REVIEW
-042,APP FATIGUE AND PATTERN RESET,C042,format_a,carousels/carousel_042_app-fatigue-and-pattern-reset_format_a,5,READY_TO_REVIEW
-043,APP FATIGUE AND PATTERN RESET,C043,format_a,carousels/carousel_043_app-fatigue-and-pattern-reset_format_a,5,READY_TO_REVIEW
-044,APP FATIGUE AND PATTERN RESET,C044,format_a,carousels/carousel_044_app-fatigue-and-pattern-reset_format_a,5,READY_TO_REVIEW
-045,GHOSTING AND CLARITY,C045,format_a,carousels/carousel_045_ghosting-and-clarity_format_a,5,READY_TO_REVIEW
-046,GHOSTING AND CLARITY,C046,format_a,carousels/carousel_046_ghosting-and-clarity_format_a,5,READY_TO_REVIEW
-047,GHOSTING AND CLARITY,C047,format_a,carousels/carousel_047_ghosting-and-clarity_format_a,5,READY_TO_REVIEW
-048,GHOSTING AND CLARITY,C048,format_a,carousels/carousel_048_ghosting-and-clarity_format_a,5,READY_TO_REVIEW
-049,EARLY TRUST AND CONSISTENCY,C049,format_a,carousels/carousel_049_early-trust-and-consistency_format_a,5,READY_TO_REVIEW
-050,EARLY TRUST AND CONSISTENCY,C050,format_a,carousels/carousel_050_early-trust-and-consistency_format_a,5,READY_TO_REVIEW
-051,EARLY TRUST AND CONSISTENCY,C051,format_a,carousels/carousel_051_early-trust-and-consistency_format_a,5,READY_TO_REVIEW
-052,EARLY TRUST AND CONSISTENCY,C052,format_a,carousels/carousel_052_early-trust-and-consistency_format_a,5,READY_TO_REVIEW
-053,BOUNDARIES AND SELF-RESPECT,C053,format_a,carousels/carousel_053_boundaries-and-self-respect_format_a,5,READY_TO_REVIEW
-054,BOUNDARIES AND SELF-RESPECT,C054,format_a,carousels/carousel_054_boundaries-and-self-respect_format_a,5,READY_TO_REVIEW
-055,BOUNDARIES AND SELF-RESPECT,C055,format_a,carousels/carousel_055_boundaries-and-self-respect_format_a,5,READY_TO_REVIEW
-056,BOUNDARIES AND SELF-RESPECT,C056,format_a,carousels/carousel_056_boundaries-and-self-respect_format_a,5,READY_TO_REVIEW
-057,GROUNDED MASCULINE INITIATIVE,C057,format_a,carousels/carousel_057_grounded-masculine-initiative_format_a,5,READY_TO_REVIEW
-058,GROUNDED MASCULINE INITIATIVE,C058,format_a,carousels/carousel_058_grounded-masculine-initiative_format_a,5,READY_TO_REVIEW
-059,GROUNDED MASCULINE INITIATIVE,C059,format_a,carousels/carousel_059_grounded-masculine-initiative_format_a,5,READY_TO_REVIEW
-060,GROUNDED MASCULINE INITIATIVE,C060,format_a,carousels/carousel_060_grounded-masculine-initiative_format_a,5,READY_TO_REVIEW
-061,LIFESTYLE SIGNAL AND SOCIAL LIFE,C061,format_a,carousels/carousel_061_lifestyle-signal-and-social-life_format_a,5,READY_TO_REVIEW
-062,LIFESTYLE SIGNAL AND SOCIAL LIFE,C062,format_a,carousels/carousel_062_lifestyle-signal-and-social-life_format_a,5,READY_TO_REVIEW
-063,LIFESTYLE SIGNAL AND SOCIAL LIFE,C063,format_a,carousels/carousel_063_lifestyle-signal-and-social-life_format_a,5,READY_TO_REVIEW
-064,LIFESTYLE SIGNAL AND SOCIAL LIFE,C064,format_a,carousels/carousel_064_lifestyle-signal-and-social-life_format_a,5,READY_TO_REVIEW
-065,VULNERABILITY AND SHAME RESILIENCE,C065,format_a,carousels/carousel_065_vulnerability-and-shame-resilience_format_a,5,READY_TO_REVIEW
-066,VULNERABILITY AND SHAME RESILIENCE,C066,format_a,carousels/carousel_066_vulnerability-and-shame-resilience_format_a,5,READY_TO_REVIEW
-067,VULNERABILITY AND SHAME RESILIENCE,C067,format_a,carousels/carousel_067_vulnerability-and-shame-resilience_format_a,5,READY_TO_REVIEW
-068,VULNERABILITY AND SHAME RESILIENCE,C068,format_a,carousels/carousel_068_vulnerability-and-shame-resilience_format_a,5,READY_TO_REVIEW
-069,DISCERNMENT AND COMPATIBILITY,C069,format_a,carousels/carousel_069_discernment-and-compatibility_format_a,5,READY_TO_REVIEW
-070,DISCERNMENT AND COMPATIBILITY,C070,format_a,carousels/carousel_070_discernment-and-compatibility_format_a,5,READY_TO_REVIEW
-071,DISCERNMENT AND COMPATIBILITY,C071,format_a,carousels/carousel_071_discernment-and-compatibility_format_a,5,READY_TO_REVIEW
-072,DISCERNMENT AND COMPATIBILITY,C072,format_a,carousels/carousel_072_discernment-and-compatibility_format_a,5,READY_TO_REVIEW
-073,CHEMISTRY AND PLAY,C073,format_a,carousels/carousel_073_chemistry-and-play_format_a,5,READY_TO_REVIEW
-074,CHEMISTRY AND PLAY,C074,format_a,carousels/carousel_074_chemistry-and-play_format_a,5,READY_TO_REVIEW
-075,CHEMISTRY AND PLAY,C075,format_a,carousels/carousel_075_chemistry-and-play_format_a,5,READY_TO_REVIEW
-076,CHEMISTRY AND PLAY,C076,format_a,carousels/carousel_076_chemistry-and-play_format_a,5,READY_TO_REVIEW
-077,EARLY RELATIONSHIP PROGRESSION,C077,format_a,carousels/carousel_077_early-relationship-progression_format_a,5,READY_TO_REVIEW
-078,EARLY RELATIONSHIP PROGRESSION,C078,format_a,carousels/carousel_078_early-relationship-progression_format_a,5,READY_TO_REVIEW
-079,EARLY RELATIONSHIP PROGRESSION,C079,format_a,carousels/carousel_079_early-relationship-progression_format_a,5,READY_TO_REVIEW
-080,EARLY RELATIONSHIP PROGRESSION,C080,format_a,carousels/carousel_080_early-relationship-progression_format_a,5,READY_TO_REVIEW
-081,CONFLICT AND REPAIR,C081,format_a,carousels/carousel_081_conflict-and-repair_format_a,5,READY_TO_REVIEW
-082,CONFLICT AND REPAIR,C082,format_a,carousels/carousel_082_conflict-and-repair_format_a,5,READY_TO_REVIEW
-083,CONFLICT AND REPAIR,C083,format_a,carousels/carousel_083_conflict-and-repair_format_a,5,READY_TO_REVIEW
-084,CONFLICT AND REPAIR,C084,format_a,carousels/carousel_084_conflict-and-repair_format_a,5,READY_TO_REVIEW
-085,VALUES AND INNER SCOREBOARD,C085,format_a,carousels/carousel_085_values-and-inner-scoreboard_format_a,5,READY_TO_REVIEW
-086,VALUES AND INNER SCOREBOARD,C086,format_a,carousels/carousel_086_values-and-inner-scoreboard_format_a,5,READY_TO_REVIEW
-087,VALUES AND INNER SCOREBOARD,C087,format_a,carousels/carousel_087_values-and-inner-scoreboard_format_a,5,READY_TO_REVIEW
-088,VALUES AND INNER SCOREBOARD,C088,format_a,carousels/carousel_088_values-and-inner-scoreboard_format_a,5,READY_TO_REVIEW
-089,PURSUIT DISTANCE AND CHASING,C089,format_a,carousels/carousel_089_pursuit-distance-and-chasing_format_a,5,READY_TO_REVIEW
-090,PURSUIT DISTANCE AND CHASING,C090,format_a,carousels/carousel_090_pursuit-distance-and-chasing_format_a,5,READY_TO_REVIEW
-091,PURSUIT DISTANCE AND CHASING,C091,format_a,carousels/carousel_091_pursuit-distance-and-chasing_format_a,5,READY_TO_REVIEW
-092,PURSUIT DISTANCE AND CHASING,C092,format_a,carousels/carousel_092_pursuit-distance-and-chasing_format_a,5,READY_TO_REVIEW
-093,EFFORT AND RECIPROCITY,C093,format_a,carousels/carousel_093_effort-and-reciprocity_format_a,5,READY_TO_REVIEW
-094,EFFORT AND RECIPROCITY,C094,format_a,carousels/carousel_094_effort-and-reciprocity_format_a,5,READY_TO_REVIEW
-095,EFFORT AND RECIPROCITY,C095,format_a,carousels/carousel_095_effort-and-reciprocity_format_a,5,READY_TO_REVIEW
-096,EFFORT AND RECIPROCITY,C096,format_a,carousels/carousel_096_effort-and-reciprocity_format_a,5,READY_TO_REVIEW
-097,PRESENCE AND CONVERSATIONAL DEPTH,C097,format_a,carousels/carousel_097_presence-and-conversational-depth_format_a,5,READY_TO_REVIEW
-098,PRESENCE AND CONVERSATIONAL DEPTH,C098,format_a,carousels/carousel_098_presence-and-conversational-depth_format_a,5,READY_TO_REVIEW
-099,PRESENCE AND CONVERSATIONAL DEPTH,C099,format_a,carousels/carousel_099_presence-and-conversational-depth_format_a,5,READY_TO_REVIEW
-100,PRESENCE AND CONVERSATIONAL DEPTH,C100,format_a,carousels/carousel_100_presence-and-conversational-depth_format_a,5,READY_TO_REVIEW
-101,MATCH SELECTION AND FILTERING,C101,format_a,carousels/carousel_101_match-selection-and-filtering_format_a,5,READY_TO_REVIEW
-102,MATCH SELECTION AND FILTERING,C102,format_a,carousels/carousel_102_match-selection-and-filtering_format_a,5,READY_TO_REVIEW
-103,MATCH SELECTION AND FILTERING,C103,format_a,carousels/carousel_103_match-selection-and-filtering_format_a,5,READY_TO_REVIEW
-104,MATCH SELECTION AND FILTERING,C104,format_a,carousels/carousel_104_match-selection-and-filtering_format_a,5,READY_TO_REVIEW
-105,PROFILE PHOTO CALIBRATION,C105,format_a,carousels/carousel_105_profile-photo-calibration_format_a,5,READY_TO_REVIEW
-106,PROFILE PHOTO CALIBRATION,C106,format_a,carousels/carousel_106_profile-photo-calibration_format_a,5,READY_TO_REVIEW
-107,PROFILE PHOTO CALIBRATION,C107,format_a,carousels/carousel_107_profile-photo-calibration_format_a,5,READY_TO_REVIEW
-108,PROFILE PHOTO CALIBRATION,C108,format_a,carousels/carousel_108_profile-photo-calibration_format_a,5,READY_TO_REVIEW
-109,PROMPT WRITING AND BIO SIGNAL,C109,format_a,carousels/carousel_109_prompt-writing-and-bio-signal_format_a,5,READY_TO_REVIEW
-110,PROMPT WRITING AND BIO SIGNAL,C110,format_a,carousels/carousel_110_prompt-writing-and-bio-signal_format_a,5,READY_TO_REVIEW
-111,PROMPT WRITING AND BIO SIGNAL,C111,format_a,carousels/carousel_111_prompt-writing-and-bio-signal_format_a,5,READY_TO_REVIEW
-112,PROMPT WRITING AND BIO SIGNAL,C112,format_a,carousels/carousel_112_prompt-writing-and-bio-signal_format_a,5,READY_TO_REVIEW
-113,TRANSITIONING OFF APP,C113,format_a,carousels/carousel_113_transitioning-off-app_format_a,5,READY_TO_REVIEW
-114,TRANSITIONING OFF APP,C114,format_a,carousels/carousel_114_transitioning-off-app_format_a,5,READY_TO_REVIEW
-115,TRANSITIONING OFF APP,C115,format_a,carousels/carousel_115_transitioning-off-app_format_a,5,READY_TO_REVIEW
-116,TRANSITIONING OFF APP,C116,format_a,carousels/carousel_116_transitioning-off-app_format_a,5,READY_TO_REVIEW
-117,SECOND DATE DECISIONS,C117,format_a,carousels/carousel_117_second-date-decisions_format_a,5,READY_TO_REVIEW
-118,SECOND DATE DECISIONS,C118,format_a,carousels/carousel_118_second-date-decisions_format_a,5,READY_TO_REVIEW
-119,SECOND DATE DECISIONS,C119,format_a,carousels/carousel_119_second-date-decisions_format_a,5,READY_TO_REVIEW
-120,SECOND DATE DECISIONS,C120,format_a,carousels/carousel_120_second-date-decisions_format_a,5,READY_TO_REVIEW
-121,DATE PLANNING AND VENUE CHOICE,C121,format_a,carousels/carousel_121_date-planning-and-venue-choice_format_a,5,READY_TO_REVIEW
-122,DATE PLANNING AND VENUE CHOICE,C122,format_a,carousels/carousel_122_date-planning-and-venue-choice_format_a,5,READY_TO_REVIEW
-123,DATE PLANNING AND VENUE CHOICE,C123,format_a,carousels/carousel_123_date-planning-and-venue-choice_format_a,5,READY_TO_REVIEW
-124,DATE PLANNING AND VENUE CHOICE,C124,format_a,carousels/carousel_124_date-planning-and-venue-choice_format_a,5,READY_TO_REVIEW
-125,POST-DATE FOLLOW-UP,C125,format_a,carousels/carousel_125_post-date-follow-up_format_a,5,READY_TO_REVIEW
-126,POST-DATE FOLLOW-UP,C126,format_a,carousels/carousel_126_post-date-follow-up_format_a,5,READY_TO_REVIEW
-127,POST-DATE FOLLOW-UP,C127,format_a,carousels/carousel_127_post-date-follow-up_format_a,5,READY_TO_REVIEW
-128,POST-DATE FOLLOW-UP,C128,format_a,carousels/carousel_128_post-date-follow-up_format_a,5,READY_TO_REVIEW
-129,MIXED SIGNALS AND AMBIGUITY,C129,format_a,carousels/carousel_129_mixed-signals-and-ambiguity_format_a,5,READY_TO_REVIEW
-130,MIXED SIGNALS AND AMBIGUITY,C130,format_a,carousels/carousel_130_mixed-signals-and-ambiguity_format_a,5,READY_TO_REVIEW
-131,MIXED SIGNALS AND AMBIGUITY,C131,format_a,carousels/carousel_131_mixed-signals-and-ambiguity_format_a,5,READY_TO_REVIEW
-132,MIXED SIGNALS AND AMBIGUITY,C132,format_a,carousels/carousel_132_mixed-signals-and-ambiguity_format_a,5,READY_TO_REVIEW
-133,SOCIAL ENVIRONMENT DESIGN,C133,format_a,carousels/carousel_133_social-environment-design_format_a,5,READY_TO_REVIEW
-134,SOCIAL ENVIRONMENT DESIGN,C134,format_a,carousels/carousel_134_social-environment-design_format_a,5,READY_TO_REVIEW
-135,SOCIAL ENVIRONMENT DESIGN,C135,format_a,carousels/carousel_135_social-environment-design_format_a,5,READY_TO_REVIEW
-136,SOCIAL ENVIRONMENT DESIGN,C136,format_a,carousels/carousel_136_social-environment-design_format_a,5,READY_TO_REVIEW
-137,HUMOR AND SELF-POSSESSION,C137,format_a,carousels/carousel_137_humor-and-self-possession_format_a,5,READY_TO_REVIEW
-138,HUMOR AND SELF-POSSESSION,C138,format_a,carousels/carousel_138_humor-and-self-possession_format_a,5,READY_TO_REVIEW
-139,HUMOR AND SELF-POSSESSION,C139,format_a,carousels/carousel_139_humor-and-self-possession_format_a,5,READY_TO_REVIEW
-140,HUMOR AND SELF-POSSESSION,C140,format_a,carousels/carousel_140_humor-and-self-possession_format_a,5,READY_TO_REVIEW
-141,PHYSICAL PACING AND CONSENT,C141,format_a,carousels/carousel_141_physical-pacing-and-consent_format_a,5,READY_TO_REVIEW
-142,PHYSICAL PACING AND CONSENT,C142,format_a,carousels/carousel_142_physical-pacing-and-consent_format_a,5,READY_TO_REVIEW
-143,PHYSICAL PACING AND CONSENT,C143,format_a,carousels/carousel_143_physical-pacing-and-consent_format_a,5,READY_TO_REVIEW
-144,PHYSICAL PACING AND CONSENT,C144,format_a,carousels/carousel_144_physical-pacing-and-consent_format_a,5,READY_TO_REVIEW
-145,SELF-CALMING AND EMOTIONAL REGULATION,C145,format_a,carousels/carousel_145_self-calming-and-emotional-regulation_format_a,5,READY_TO_REVIEW
-146,SELF-CALMING AND EMOTIONAL REGULATION,C146,format_a,carousels/carousel_146_self-calming-and-emotional-regulation_format_a,5,READY_TO_REVIEW
-147,SELF-CALMING AND EMOTIONAL REGULATION,C147,format_a,carousels/carousel_147_self-calming-and-emotional-regulation_format_a,5,READY_TO_REVIEW
-148,SELF-CALMING AND EMOTIONAL REGULATION,C148,format_a,carousels/carousel_148_self-calming-and-emotional-regulation_format_a,5,READY_TO_REVIEW
-149,DEFINING INTENT AND EXCLUSIVITY,C149,format_a,carousels/carousel_149_defining-intent-and-exclusivity_format_a,5,READY_TO_REVIEW
-150,DEFINING INTENT AND EXCLUSIVITY,C150,format_a,carousels/carousel_150_defining-intent-and-exclusivity_format_a,5,READY_TO_REVIEW
-151,DEFINING INTENT AND EXCLUSIVITY,C151,format_a,carousels/carousel_151_defining-intent-and-exclusivity_format_a,5,READY_TO_REVIEW
-152,DEFINING INTENT AND EXCLUSIVITY,C152,format_a,carousels/carousel_152_defining-intent-and-exclusivity_format_a,5,READY_TO_REVIEW
-153,BREAKUP RECOVERY AND RESET,C153,format_a,carousels/carousel_153_breakup-recovery-and-reset_format_a,5,READY_TO_REVIEW
-154,BREAKUP RECOVERY AND RESET,C154,format_a,carousels/carousel_154_breakup-recovery-and-reset_format_a,5,READY_TO_REVIEW
-155,BREAKUP RECOVERY AND RESET,C155,format_a,carousels/carousel_155_breakup-recovery-and-reset_format_a,5,READY_TO_REVIEW
-156,BREAKUP RECOVERY AND RESET,C156,format_a,carousels/carousel_156_breakup-recovery-and-reset_format_a,5,READY_TO_REVIEW
-157,FRIENDSHIP BELONGING AND MALE LONELINESS,C157,format_a,carousels/carousel_157_friendship-belonging-and-male-loneliness_format_a,5,READY_TO_REVIEW
-158,FRIENDSHIP BELONGING AND MALE LONELINESS,C158,format_a,carousels/carousel_158_friendship-belonging-and-male-loneliness_format_a,5,READY_TO_REVIEW
-159,FRIENDSHIP BELONGING AND MALE LONELINESS,C159,format_a,carousels/carousel_159_friendship-belonging-and-male-loneliness_format_a,5,READY_TO_REVIEW
-160,FRIENDSHIP BELONGING AND MALE LONELINESS,C160,format_a,carousels/carousel_160_friendship-belonging-and-male-loneliness_format_a,5,READY_TO_REVIEW
+001,BUMBLE CONVERSATION DESIGN,C001,format_a,carousels/carousel_001_bumble-conversation-design_format_a,5,DRAFT_PENDING_QA
+002,BUMBLE CONVERSATION DESIGN,C002,format_a,carousels/carousel_002_bumble-conversation-design_format_a,5,DRAFT_PENDING_QA
+003,BUMBLE CONVERSATION DESIGN,C003,format_a,carousels/carousel_003_bumble-conversation-design_format_a,5,DRAFT_PENDING_QA
+004,BUMBLE CONVERSATION DESIGN,C004,format_a,carousels/carousel_004_bumble-conversation-design_format_a,5,DRAFT_PENDING_QA
+005,TEXTING PRESSURE AND CLARITY,C005,format_a,carousels/carousel_005_texting-pressure-and-clarity_format_a,5,DRAFT_PENDING_QA
+006,TEXTING PRESSURE AND CLARITY,C006,format_a,carousels/carousel_006_texting-pressure-and-clarity_format_a,5,DRAFT_PENDING_QA
+007,TEXTING PRESSURE AND CLARITY,C007,format_a,carousels/carousel_007_texting-pressure-and-clarity_format_a,5,DRAFT_PENDING_QA
+008,TEXTING PRESSURE AND CLARITY,C008,format_a,carousels/carousel_008_texting-pressure-and-clarity_format_a,5,DRAFT_PENDING_QA
+009,PROFILE SIGNAL AND PHOTOS,C009,format_a,carousels/carousel_009_profile-signal-and-photos_format_a,5,DRAFT_PENDING_QA
+010,PROFILE SIGNAL AND PHOTOS,C010,format_a,carousels/carousel_010_profile-signal-and-photos_format_a,5,DRAFT_PENDING_QA
+011,PROFILE SIGNAL AND PHOTOS,C011,format_a,carousels/carousel_011_profile-signal-and-photos_format_a,5,DRAFT_PENDING_QA
+012,PROFILE SIGNAL AND PHOTOS,C012,format_a,carousels/carousel_012_profile-signal-and-photos_format_a,5,DRAFT_PENDING_QA
+013,FIRST DATE STRUCTURE,C013,format_a,carousels/carousel_013_first-date-structure_format_a,5,DRAFT_PENDING_QA
+014,FIRST DATE STRUCTURE,C014,format_a,carousels/carousel_014_first-date-structure_format_a,5,DRAFT_PENDING_QA
+015,FIRST DATE STRUCTURE,C015,format_a,carousels/carousel_015_first-date-structure_format_a,5,DRAFT_PENDING_QA
+016,FIRST DATE STRUCTURE,C016,format_a,carousels/carousel_016_first-date-structure_format_a,5,DRAFT_PENDING_QA
+017,REJECTION RESILIENCE,C017,format_a,carousels/carousel_017_rejection-resilience_format_a,5,DRAFT_PENDING_QA
+018,REJECTION RESILIENCE,C018,format_a,carousels/carousel_018_rejection-resilience_format_a,5,DRAFT_PENDING_QA
+019,REJECTION RESILIENCE,C019,format_a,carousels/carousel_019_rejection-resilience_format_a,5,DRAFT_PENDING_QA
+020,REJECTION RESILIENCE,C020,format_a,carousels/carousel_020_rejection-resilience_format_a,5,DRAFT_PENDING_QA
+021,SOCIAL CONFIDENCE REPS,C021,format_a,carousels/carousel_021_social-confidence-reps_format_a,5,DRAFT_PENDING_QA
+022,SOCIAL CONFIDENCE REPS,C022,format_a,carousels/carousel_022_social-confidence-reps_format_a,5,DRAFT_PENDING_QA
+023,SOCIAL CONFIDENCE REPS,C023,format_a,carousels/carousel_023_social-confidence-reps_format_a,5,DRAFT_PENDING_QA
+024,SOCIAL CONFIDENCE REPS,C024,format_a,carousels/carousel_024_social-confidence-reps_format_a,5,DRAFT_PENDING_QA
+025,BODY LANGUAGE AND PRESENCE,C025,format_a,carousels/carousel_025_body-language-and-presence_format_a,5,DRAFT_PENDING_QA
+026,BODY LANGUAGE AND PRESENCE,C026,format_a,carousels/carousel_026_body-language-and-presence_format_a,5,DRAFT_PENDING_QA
+027,BODY LANGUAGE AND PRESENCE,C027,format_a,carousels/carousel_027_body-language-and-presence_format_a,5,DRAFT_PENDING_QA
+028,BODY LANGUAGE AND PRESENCE,C028,format_a,carousels/carousel_028_body-language-and-presence_format_a,5,DRAFT_PENDING_QA
+029,PLAYFUL TENSION AND TEASING,C029,format_a,carousels/carousel_029_playful-tension-and-teasing_format_a,5,DRAFT_PENDING_QA
+030,PLAYFUL TENSION AND TEASING,C030,format_a,carousels/carousel_030_playful-tension-and-teasing_format_a,5,DRAFT_PENDING_QA
+031,PLAYFUL TENSION AND TEASING,C031,format_a,carousels/carousel_031_playful-tension-and-teasing_format_a,5,DRAFT_PENDING_QA
+032,PLAYFUL TENSION AND TEASING,C032,format_a,carousels/carousel_032_playful-tension-and-teasing_format_a,5,DRAFT_PENDING_QA
+033,STANDARDS AND DISCERNMENT,C033,format_a,carousels/carousel_033_standards-and-discernment_format_a,5,DRAFT_PENDING_QA
+034,STANDARDS AND DISCERNMENT,C034,format_a,carousels/carousel_034_standards-and-discernment_format_a,5,DRAFT_PENDING_QA
+035,STANDARDS AND DISCERNMENT,C035,format_a,carousels/carousel_035_standards-and-discernment_format_a,5,DRAFT_PENDING_QA
+036,STANDARDS AND DISCERNMENT,C036,format_a,carousels/carousel_036_standards-and-discernment_format_a,5,DRAFT_PENDING_QA
+037,SELF-RESPECT AND NON-NEEDINESS,C037,format_a,carousels/carousel_037_self-respect-and-non-neediness_format_a,5,DRAFT_PENDING_QA
+038,SELF-RESPECT AND NON-NEEDINESS,C038,format_a,carousels/carousel_038_self-respect-and-non-neediness_format_a,5,DRAFT_PENDING_QA
+039,SELF-RESPECT AND NON-NEEDINESS,C039,format_a,carousels/carousel_039_self-respect-and-non-neediness_format_a,5,DRAFT_PENDING_QA
+040,SELF-RESPECT AND NON-NEEDINESS,C040,format_a,carousels/carousel_040_self-respect-and-non-neediness_format_a,5,DRAFT_PENDING_QA
+041,APP FATIGUE AND PATTERN RESET,C041,format_a,carousels/carousel_041_app-fatigue-and-pattern-reset_format_a,5,DRAFT_PENDING_QA
+042,APP FATIGUE AND PATTERN RESET,C042,format_a,carousels/carousel_042_app-fatigue-and-pattern-reset_format_a,5,DRAFT_PENDING_QA
+043,APP FATIGUE AND PATTERN RESET,C043,format_a,carousels/carousel_043_app-fatigue-and-pattern-reset_format_a,5,DRAFT_PENDING_QA
+044,APP FATIGUE AND PATTERN RESET,C044,format_a,carousels/carousel_044_app-fatigue-and-pattern-reset_format_a,5,DRAFT_PENDING_QA
+045,GHOSTING AND CLARITY,C045,format_a,carousels/carousel_045_ghosting-and-clarity_format_a,5,DRAFT_PENDING_QA
+046,GHOSTING AND CLARITY,C046,format_a,carousels/carousel_046_ghosting-and-clarity_format_a,5,DRAFT_PENDING_QA
+047,GHOSTING AND CLARITY,C047,format_a,carousels/carousel_047_ghosting-and-clarity_format_a,5,DRAFT_PENDING_QA
+048,GHOSTING AND CLARITY,C048,format_a,carousels/carousel_048_ghosting-and-clarity_format_a,5,DRAFT_PENDING_QA
+049,EARLY TRUST AND CONSISTENCY,C049,format_a,carousels/carousel_049_early-trust-and-consistency_format_a,5,DRAFT_PENDING_QA
+050,EARLY TRUST AND CONSISTENCY,C050,format_a,carousels/carousel_050_early-trust-and-consistency_format_a,5,DRAFT_PENDING_QA
+051,EARLY TRUST AND CONSISTENCY,C051,format_a,carousels/carousel_051_early-trust-and-consistency_format_a,5,DRAFT_PENDING_QA
+052,EARLY TRUST AND CONSISTENCY,C052,format_a,carousels/carousel_052_early-trust-and-consistency_format_a,5,DRAFT_PENDING_QA
+053,BOUNDARIES AND SELF-RESPECT,C053,format_a,carousels/carousel_053_boundaries-and-self-respect_format_a,5,DRAFT_PENDING_QA
+054,BOUNDARIES AND SELF-RESPECT,C054,format_a,carousels/carousel_054_boundaries-and-self-respect_format_a,5,DRAFT_PENDING_QA
+055,BOUNDARIES AND SELF-RESPECT,C055,format_a,carousels/carousel_055_boundaries-and-self-respect_format_a,5,DRAFT_PENDING_QA
+056,BOUNDARIES AND SELF-RESPECT,C056,format_a,carousels/carousel_056_boundaries-and-self-respect_format_a,5,DRAFT_PENDING_QA
+057,GROUNDED MASCULINE INITIATIVE,C057,format_a,carousels/carousel_057_grounded-masculine-initiative_format_a,5,DRAFT_PENDING_QA
+058,GROUNDED MASCULINE INITIATIVE,C058,format_a,carousels/carousel_058_grounded-masculine-initiative_format_a,5,DRAFT_PENDING_QA
+059,GROUNDED MASCULINE INITIATIVE,C059,format_a,carousels/carousel_059_grounded-masculine-initiative_format_a,5,DRAFT_PENDING_QA
+060,GROUNDED MASCULINE INITIATIVE,C060,format_a,carousels/carousel_060_grounded-masculine-initiative_format_a,5,DRAFT_PENDING_QA
+061,LIFESTYLE SIGNAL AND SOCIAL LIFE,C061,format_a,carousels/carousel_061_lifestyle-signal-and-social-life_format_a,5,DRAFT_PENDING_QA
+062,LIFESTYLE SIGNAL AND SOCIAL LIFE,C062,format_a,carousels/carousel_062_lifestyle-signal-and-social-life_format_a,5,DRAFT_PENDING_QA
+063,LIFESTYLE SIGNAL AND SOCIAL LIFE,C063,format_a,carousels/carousel_063_lifestyle-signal-and-social-life_format_a,5,DRAFT_PENDING_QA
+064,LIFESTYLE SIGNAL AND SOCIAL LIFE,C064,format_a,carousels/carousel_064_lifestyle-signal-and-social-life_format_a,5,DRAFT_PENDING_QA
+065,VULNERABILITY AND SHAME RESILIENCE,C065,format_a,carousels/carousel_065_vulnerability-and-shame-resilience_format_a,5,DRAFT_PENDING_QA
+066,VULNERABILITY AND SHAME RESILIENCE,C066,format_a,carousels/carousel_066_vulnerability-and-shame-resilience_format_a,5,DRAFT_PENDING_QA
+067,VULNERABILITY AND SHAME RESILIENCE,C067,format_a,carousels/carousel_067_vulnerability-and-shame-resilience_format_a,5,DRAFT_PENDING_QA
+068,VULNERABILITY AND SHAME RESILIENCE,C068,format_a,carousels/carousel_068_vulnerability-and-shame-resilience_format_a,5,DRAFT_PENDING_QA
+069,DISCERNMENT AND COMPATIBILITY,C069,format_a,carousels/carousel_069_discernment-and-compatibility_format_a,5,DRAFT_PENDING_QA
+070,DISCERNMENT AND COMPATIBILITY,C070,format_a,carousels/carousel_070_discernment-and-compatibility_format_a,5,DRAFT_PENDING_QA
+071,DISCERNMENT AND COMPATIBILITY,C071,format_a,carousels/carousel_071_discernment-and-compatibility_format_a,5,DRAFT_PENDING_QA
+072,DISCERNMENT AND COMPATIBILITY,C072,format_a,carousels/carousel_072_discernment-and-compatibility_format_a,5,DRAFT_PENDING_QA
+073,CHEMISTRY AND PLAY,C073,format_a,carousels/carousel_073_chemistry-and-play_format_a,5,DRAFT_PENDING_QA
+074,CHEMISTRY AND PLAY,C074,format_a,carousels/carousel_074_chemistry-and-play_format_a,5,DRAFT_PENDING_QA
+075,CHEMISTRY AND PLAY,C075,format_a,carousels/carousel_075_chemistry-and-play_format_a,5,DRAFT_PENDING_QA
+076,CHEMISTRY AND PLAY,C076,format_a,carousels/carousel_076_chemistry-and-play_format_a,5,DRAFT_PENDING_QA
+077,EARLY RELATIONSHIP PROGRESSION,C077,format_a,carousels/carousel_077_early-relationship-progression_format_a,5,DRAFT_PENDING_QA
+078,EARLY RELATIONSHIP PROGRESSION,C078,format_a,carousels/carousel_078_early-relationship-progression_format_a,5,DRAFT_PENDING_QA
+079,EARLY RELATIONSHIP PROGRESSION,C079,format_a,carousels/carousel_079_early-relationship-progression_format_a,5,DRAFT_PENDING_QA
+080,EARLY RELATIONSHIP PROGRESSION,C080,format_a,carousels/carousel_080_early-relationship-progression_format_a,5,DRAFT_PENDING_QA
+081,CONFLICT AND REPAIR,C081,format_a,carousels/carousel_081_conflict-and-repair_format_a,5,DRAFT_PENDING_QA
+082,CONFLICT AND REPAIR,C082,format_a,carousels/carousel_082_conflict-and-repair_format_a,5,DRAFT_PENDING_QA
+083,CONFLICT AND REPAIR,C083,format_a,carousels/carousel_083_conflict-and-repair_format_a,5,DRAFT_PENDING_QA
+084,CONFLICT AND REPAIR,C084,format_a,carousels/carousel_084_conflict-and-repair_format_a,5,DRAFT_PENDING_QA
+085,VALUES AND INNER SCOREBOARD,C085,format_a,carousels/carousel_085_values-and-inner-scoreboard_format_a,5,DRAFT_PENDING_QA
+086,VALUES AND INNER SCOREBOARD,C086,format_a,carousels/carousel_086_values-and-inner-scoreboard_format_a,5,DRAFT_PENDING_QA
+087,VALUES AND INNER SCOREBOARD,C087,format_a,carousels/carousel_087_values-and-inner-scoreboard_format_a,5,DRAFT_PENDING_QA
+088,VALUES AND INNER SCOREBOARD,C088,format_a,carousels/carousel_088_values-and-inner-scoreboard_format_a,5,DRAFT_PENDING_QA
+089,PURSUIT DISTANCE AND CHASING,C089,format_a,carousels/carousel_089_pursuit-distance-and-chasing_format_a,5,DRAFT_PENDING_QA
+090,PURSUIT DISTANCE AND CHASING,C090,format_a,carousels/carousel_090_pursuit-distance-and-chasing_format_a,5,DRAFT_PENDING_QA
+091,PURSUIT DISTANCE AND CHASING,C091,format_a,carousels/carousel_091_pursuit-distance-and-chasing_format_a,5,DRAFT_PENDING_QA
+092,PURSUIT DISTANCE AND CHASING,C092,format_a,carousels/carousel_092_pursuit-distance-and-chasing_format_a,5,DRAFT_PENDING_QA
+093,EFFORT AND RECIPROCITY,C093,format_a,carousels/carousel_093_effort-and-reciprocity_format_a,5,DRAFT_PENDING_QA
+094,EFFORT AND RECIPROCITY,C094,format_a,carousels/carousel_094_effort-and-reciprocity_format_a,5,DRAFT_PENDING_QA
+095,EFFORT AND RECIPROCITY,C095,format_a,carousels/carousel_095_effort-and-reciprocity_format_a,5,DRAFT_PENDING_QA
+096,EFFORT AND RECIPROCITY,C096,format_a,carousels/carousel_096_effort-and-reciprocity_format_a,5,DRAFT_PENDING_QA
+097,PRESENCE AND CONVERSATIONAL DEPTH,C097,format_a,carousels/carousel_097_presence-and-conversational-depth_format_a,5,DRAFT_PENDING_QA
+098,PRESENCE AND CONVERSATIONAL DEPTH,C098,format_a,carousels/carousel_098_presence-and-conversational-depth_format_a,5,DRAFT_PENDING_QA
+099,PRESENCE AND CONVERSATIONAL DEPTH,C099,format_a,carousels/carousel_099_presence-and-conversational-depth_format_a,5,DRAFT_PENDING_QA
+100,PRESENCE AND CONVERSATIONAL DEPTH,C100,format_a,carousels/carousel_100_presence-and-conversational-depth_format_a,5,DRAFT_PENDING_QA
+101,MATCH SELECTION AND FILTERING,C101,format_a,carousels/carousel_101_match-selection-and-filtering_format_a,5,DRAFT_PENDING_QA
+102,MATCH SELECTION AND FILTERING,C102,format_a,carousels/carousel_102_match-selection-and-filtering_format_a,5,DRAFT_PENDING_QA
+103,MATCH SELECTION AND FILTERING,C103,format_a,carousels/carousel_103_match-selection-and-filtering_format_a,5,DRAFT_PENDING_QA
+104,MATCH SELECTION AND FILTERING,C104,format_a,carousels/carousel_104_match-selection-and-filtering_format_a,5,DRAFT_PENDING_QA
+105,PROFILE PHOTO CALIBRATION,C105,format_a,carousels/carousel_105_profile-photo-calibration_format_a,5,DRAFT_PENDING_QA
+106,PROFILE PHOTO CALIBRATION,C106,format_a,carousels/carousel_106_profile-photo-calibration_format_a,5,DRAFT_PENDING_QA
+107,PROFILE PHOTO CALIBRATION,C107,format_a,carousels/carousel_107_profile-photo-calibration_format_a,5,DRAFT_PENDING_QA
+108,PROFILE PHOTO CALIBRATION,C108,format_a,carousels/carousel_108_profile-photo-calibration_format_a,5,DRAFT_PENDING_QA
+109,PROMPT WRITING AND BIO SIGNAL,C109,format_a,carousels/carousel_109_prompt-writing-and-bio-signal_format_a,5,DRAFT_PENDING_QA
+110,PROMPT WRITING AND BIO SIGNAL,C110,format_a,carousels/carousel_110_prompt-writing-and-bio-signal_format_a,5,DRAFT_PENDING_QA
+111,PROMPT WRITING AND BIO SIGNAL,C111,format_a,carousels/carousel_111_prompt-writing-and-bio-signal_format_a,5,DRAFT_PENDING_QA
+112,PROMPT WRITING AND BIO SIGNAL,C112,format_a,carousels/carousel_112_prompt-writing-and-bio-signal_format_a,5,DRAFT_PENDING_QA
+113,TRANSITIONING OFF APP,C113,format_a,carousels/carousel_113_transitioning-off-app_format_a,5,DRAFT_PENDING_QA
+114,TRANSITIONING OFF APP,C114,format_a,carousels/carousel_114_transitioning-off-app_format_a,5,DRAFT_PENDING_QA
+115,TRANSITIONING OFF APP,C115,format_a,carousels/carousel_115_transitioning-off-app_format_a,5,DRAFT_PENDING_QA
+116,TRANSITIONING OFF APP,C116,format_a,carousels/carousel_116_transitioning-off-app_format_a,5,DRAFT_PENDING_QA
+117,SECOND DATE DECISIONS,C117,format_a,carousels/carousel_117_second-date-decisions_format_a,5,DRAFT_PENDING_QA
+118,SECOND DATE DECISIONS,C118,format_a,carousels/carousel_118_second-date-decisions_format_a,5,DRAFT_PENDING_QA
+119,SECOND DATE DECISIONS,C119,format_a,carousels/carousel_119_second-date-decisions_format_a,5,DRAFT_PENDING_QA
+120,SECOND DATE DECISIONS,C120,format_a,carousels/carousel_120_second-date-decisions_format_a,5,DRAFT_PENDING_QA
+121,DATE PLANNING AND VENUE CHOICE,C121,format_a,carousels/carousel_121_date-planning-and-venue-choice_format_a,5,DRAFT_PENDING_QA
+122,DATE PLANNING AND VENUE CHOICE,C122,format_a,carousels/carousel_122_date-planning-and-venue-choice_format_a,5,DRAFT_PENDING_QA
+123,DATE PLANNING AND VENUE CHOICE,C123,format_a,carousels/carousel_123_date-planning-and-venue-choice_format_a,5,DRAFT_PENDING_QA
+124,DATE PLANNING AND VENUE CHOICE,C124,format_a,carousels/carousel_124_date-planning-and-venue-choice_format_a,5,DRAFT_PENDING_QA
+125,POST-DATE FOLLOW-UP,C125,format_a,carousels/carousel_125_post-date-follow-up_format_a,5,DRAFT_PENDING_QA
+126,POST-DATE FOLLOW-UP,C126,format_a,carousels/carousel_126_post-date-follow-up_format_a,5,DRAFT_PENDING_QA
+127,POST-DATE FOLLOW-UP,C127,format_a,carousels/carousel_127_post-date-follow-up_format_a,5,DRAFT_PENDING_QA
+128,POST-DATE FOLLOW-UP,C128,format_a,carousels/carousel_128_post-date-follow-up_format_a,5,DRAFT_PENDING_QA
+129,MIXED SIGNALS AND AMBIGUITY,C129,format_a,carousels/carousel_129_mixed-signals-and-ambiguity_format_a,5,DRAFT_PENDING_QA
+130,MIXED SIGNALS AND AMBIGUITY,C130,format_a,carousels/carousel_130_mixed-signals-and-ambiguity_format_a,5,DRAFT_PENDING_QA
+131,MIXED SIGNALS AND AMBIGUITY,C131,format_a,carousels/carousel_131_mixed-signals-and-ambiguity_format_a,5,DRAFT_PENDING_QA
+132,MIXED SIGNALS AND AMBIGUITY,C132,format_a,carousels/carousel_132_mixed-signals-and-ambiguity_format_a,5,DRAFT_PENDING_QA
+133,SOCIAL ENVIRONMENT DESIGN,C133,format_a,carousels/carousel_133_social-environment-design_format_a,5,DRAFT_PENDING_QA
+134,SOCIAL ENVIRONMENT DESIGN,C134,format_a,carousels/carousel_134_social-environment-design_format_a,5,DRAFT_PENDING_QA
+135,SOCIAL ENVIRONMENT DESIGN,C135,format_a,carousels/carousel_135_social-environment-design_format_a,5,DRAFT_PENDING_QA
+136,SOCIAL ENVIRONMENT DESIGN,C136,format_a,carousels/carousel_136_social-environment-design_format_a,5,DRAFT_PENDING_QA
+137,HUMOR AND SELF-POSSESSION,C137,format_a,carousels/carousel_137_humor-and-self-possession_format_a,5,DRAFT_PENDING_QA
+138,HUMOR AND SELF-POSSESSION,C138,format_a,carousels/carousel_138_humor-and-self-possession_format_a,5,DRAFT_PENDING_QA
+139,HUMOR AND SELF-POSSESSION,C139,format_a,carousels/carousel_139_humor-and-self-possession_format_a,5,DRAFT_PENDING_QA
+140,HUMOR AND SELF-POSSESSION,C140,format_a,carousels/carousel_140_humor-and-self-possession_format_a,5,DRAFT_PENDING_QA
+141,PHYSICAL PACING AND CONSENT,C141,format_a,carousels/carousel_141_physical-pacing-and-consent_format_a,5,DRAFT_PENDING_QA
+142,PHYSICAL PACING AND CONSENT,C142,format_a,carousels/carousel_142_physical-pacing-and-consent_format_a,5,DRAFT_PENDING_QA
+143,PHYSICAL PACING AND CONSENT,C143,format_a,carousels/carousel_143_physical-pacing-and-consent_format_a,5,DRAFT_PENDING_QA
+144,PHYSICAL PACING AND CONSENT,C144,format_a,carousels/carousel_144_physical-pacing-and-consent_format_a,5,DRAFT_PENDING_QA
+145,SELF-CALMING AND EMOTIONAL REGULATION,C145,format_a,carousels/carousel_145_self-calming-and-emotional-regulation_format_a,5,DRAFT_PENDING_QA
+146,SELF-CALMING AND EMOTIONAL REGULATION,C146,format_a,carousels/carousel_146_self-calming-and-emotional-regulation_format_a,5,DRAFT_PENDING_QA
+147,SELF-CALMING AND EMOTIONAL REGULATION,C147,format_a,carousels/carousel_147_self-calming-and-emotional-regulation_format_a,5,DRAFT_PENDING_QA
+148,SELF-CALMING AND EMOTIONAL REGULATION,C148,format_a,carousels/carousel_148_self-calming-and-emotional-regulation_format_a,5,DRAFT_PENDING_QA
+149,DEFINING INTENT AND EXCLUSIVITY,C149,format_a,carousels/carousel_149_defining-intent-and-exclusivity_format_a,5,DRAFT_PENDING_QA
+150,DEFINING INTENT AND EXCLUSIVITY,C150,format_a,carousels/carousel_150_defining-intent-and-exclusivity_format_a,5,DRAFT_PENDING_QA
+151,DEFINING INTENT AND EXCLUSIVITY,C151,format_a,carousels/carousel_151_defining-intent-and-exclusivity_format_a,5,DRAFT_PENDING_QA
+152,DEFINING INTENT AND EXCLUSIVITY,C152,format_a,carousels/carousel_152_defining-intent-and-exclusivity_format_a,5,DRAFT_PENDING_QA
+153,BREAKUP RECOVERY AND RESET,C153,format_a,carousels/carousel_153_breakup-recovery-and-reset_format_a,5,DRAFT_PENDING_QA
+154,BREAKUP RECOVERY AND RESET,C154,format_a,carousels/carousel_154_breakup-recovery-and-reset_format_a,5,DRAFT_PENDING_QA
+155,BREAKUP RECOVERY AND RESET,C155,format_a,carousels/carousel_155_breakup-recovery-and-reset_format_a,5,DRAFT_PENDING_QA
+156,BREAKUP RECOVERY AND RESET,C156,format_a,carousels/carousel_156_breakup-recovery-and-reset_format_a,5,DRAFT_PENDING_QA
+157,FRIENDSHIP BELONGING AND MALE LONELINESS,C157,format_a,carousels/carousel_157_friendship-belonging-and-male-loneliness_format_a,5,DRAFT_PENDING_QA
+158,FRIENDSHIP BELONGING AND MALE LONELINESS,C158,format_a,carousels/carousel_158_friendship-belonging-and-male-loneliness_format_a,5,DRAFT_PENDING_QA
+159,FRIENDSHIP BELONGING AND MALE LONELINESS,C159,format_a,carousels/carousel_159_friendship-belonging-and-male-loneliness_format_a,5,DRAFT_PENDING_QA
+160,FRIENDSHIP BELONGING AND MALE LONELINESS,C160,format_a,carousels/carousel_160_friendship-belonging-and-male-loneliness_format_a,5,DRAFT_PENDING_QA

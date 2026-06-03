@@ -42,4 +42,4 @@ Pick one low-stakes stretch move each week and judge it by completion first, pol
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

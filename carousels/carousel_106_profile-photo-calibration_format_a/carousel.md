@@ -42,4 +42,4 @@ Look across your photo set and ask whether it still feels like one recognizable 
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement

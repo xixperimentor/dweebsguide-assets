@@ -42,4 +42,4 @@ Create one delay rule for yourself when emotions are high and certainty is low.
 
 Save this if you want calmer, clearer dating decisions without weird performance energy.
 
-#dweebsguide #datingadvice #socialskills #selfimprovement
+#torchmethod #datingadvice #socialskills #selfimprovement
