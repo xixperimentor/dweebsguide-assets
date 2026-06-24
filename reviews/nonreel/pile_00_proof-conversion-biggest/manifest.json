@@ -1,0 +1,29 @@
+{
+  "pile_number": 0,
+  "topic": "proof conversion biggest lane",
+  "item_count": 100,
+  "sample_item_count": 10,
+  "source_queue_kind": "queued proof ads converted into reel candidates",
+  "voice_rule": "script approval first. defer final voice choice. stats-led proof defaults to music-only; testimonial, story strip, and partner split use brand narration.",
+  "approval_prompt": "approve the proof reel script system by family, then i will apply it across the full 100-item proof lane.",
+  "family_counts": {
+    "Testimonial": 47,
+    "Stats": 3,
+    "Story Strip": 21,
+    "Partner Split": 18,
+    "Stats Grid": 11
+  },
+  "master_prompt": "turn this proof asset into a short instagram reel script.\n\nrules:\n- speak in third-person brand voice, not in the member's voice\n- do not pretend to be the client or invent diary details\n- keep the script concrete, grounded, and low-hype\n- if the asset is stats-led, default to music-only and text motion instead of narration\n- if the asset is testimonial, story strip, or partner split, keep it to 2-4 short sentences\n- sentence 1 should name the visible result or contrast\n- sentence 2 should explain the behavioral shift or why it matters\n- optional sentence 3 can anchor it as real member progress from torch method\n- never use character acting, fake quotes, or claims that are not visible in the asset",
+  "sample_ids": [
+    "proof_01_matt",
+    "proof_02_ethan",
+    "proof_03_ryan",
+    "proof_51_story_matt",
+    "proof_52_story_ethan",
+    "proof_59_partner_charlie",
+    "proof_60_partner_matt",
+    "proof_67_stats_core",
+    "proof_68_stats_completion",
+    "proof_05_stats"
+  ]
+}
