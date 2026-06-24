@@ -108,14 +108,17 @@
       border-top: 1px solid var(--line);
       vertical-align: top;
     }
-    .blueprints, .samples {
+    .blueprints, .samples, .qc-grid {
       display: grid;
       gap: 16px;
     }
     .blueprints {
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
-    .sample-card, .blueprint-card {
+    .qc-grid {
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    .sample-card, .blueprint-card, .qc-card {
       overflow: hidden;
     }
     .sample-image-wrap {
@@ -422,6 +425,154 @@ rules:
                 <ul>
                   <li>long explanation</li><li>multiple claims in one read</li><li>extra filler</li>
                 </ul>
+              </div>
+            </article>
+            
+    </section>
+
+    <section class="section">
+      <div class="eyebrow">qc spot check</div>
+      <h2>one canonical example per family</h2>
+      <p>yes, this is a good way to qc it if you review one gold-standard example per family first, then spot-check one or two neighbors from the same family. this section is the quickest mobile check surface.</p>
+      <ul>
+        <li>does line one match what is actually visible in the asset?</li><li>does the script add useful meaning without inventing detail or fake quotes?</li><li>is the length right for the family, or is it dragging past the visual?</li><li>does the tone sound like brand proof instead of character acting?</li><li>for stats assets: is narration actually helping, or should this stay music-only?</li>
+      </ul>
+    </section>
+
+    <section class="qc-grid">
+      
+            <article class="qc-card">
+              <div class="sample-image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_03_ryan.png" alt="proof_03_ryan">
+              </div>
+              <div class="sample-body">
+                <div class="sample-meta">
+                  <span class="tag">testimonial</span>
+                  <span class="tag muted-tag">proof_03_ryan</span>
+                </div>
+                <h3>Clear guidance beats vague motivation.</h3>
+                <div class="panel">
+                  <div class="panel-label">why this is the qc example</div>
+                  <p>the visual is a result headline, so the audio should explain the behavioral meaning without overselling.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">final example script</div>
+                  <p>Clear guidance beats vague motivation. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">what you should check</div>
+                  <p><strong>mode:</strong> brand narration<br>
+                  <strong>length:</strong> 8 to 11 seconds<br>
+                  <strong>voice posture:</strong> steady, grounded, lightly warm, not salesy</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="qc-card">
+              <div class="sample-image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_51_story_matt.png" alt="proof_51_story_matt">
+              </div>
+              <div class="sample-body">
+                <div class="sample-meta">
+                  <span class="tag">story strip</span>
+                  <span class="tag muted-tag">proof_51_story_matt</span>
+                </div>
+                <h3>Story Strip / Matt</h3>
+                <div class="panel">
+                  <div class="panel-label">why this is the qc example</div>
+                  <p>the visual already implies sequence, so the audio should simply guide the viewer through the shift.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">final example script</div>
+                  <p>Matt&#x27;s shift here is simple: less guessing, more grounded follow-through. that is what progress looks like when it starts showing up in actual situations. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">what you should check</div>
+                  <p><strong>mode:</strong> brand narration<br>
+                  <strong>length:</strong> 10 to 14 seconds<br>
+                  <strong>voice posture:</strong> calm, observant, slightly more narrative, still restrained</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="qc-card">
+              <div class="sample-image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_59_partner_charlie.png" alt="proof_59_partner_charlie">
+              </div>
+              <div class="sample-body">
+                <div class="sample-meta">
+                  <span class="tag">partner split</span>
+                  <span class="tag muted-tag">proof_59_partner_charlie</span>
+                </div>
+                <h3>Partner Split / Charlie</h3>
+                <div class="panel">
+                  <div class="panel-label">why this is the qc example</div>
+                  <p>the visual is a contrast machine, so the audio should sharpen the contrast and get out of the way.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">final example script</div>
+                  <p>the contrast here is the point: less second-guessing, more calm directness. that kind of shift tends to land better because it reads clearer and steadier. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">what you should check</div>
+                  <p><strong>mode:</strong> brand narration<br>
+                  <strong>length:</strong> 9 to 12 seconds<br>
+                  <strong>voice posture:</strong> clear, direct, slightly firmer than testimonial</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="qc-card">
+              <div class="sample-image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_67_stats_core.png" alt="proof_67_stats_core">
+              </div>
+              <div class="sample-body">
+                <div class="sample-meta">
+                  <span class="tag">stats grid</span>
+                  <span class="tag muted-tag">proof_67_stats_core</span>
+                </div>
+                <h3>Real proof beats empty hype.</h3>
+                <div class="panel">
+                  <div class="panel-label">why this is the qc example</div>
+                  <p>the visual is already dense with proof, so audio should be optional and minimal.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">final example script</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">what you should check</div>
+                  <p><strong>mode:</strong> music only by default<br>
+                  <strong>length:</strong> 6 to 9 seconds<br>
+                  <strong>voice posture:</strong> if narrated, one-line cap only</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="qc-card">
+              <div class="sample-image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_05_stats.png" alt="proof_05_stats">
+              </div>
+              <div class="sample-body">
+                <div class="sample-meta">
+                  <span class="tag">stats</span>
+                  <span class="tag muted-tag">proof_05_stats</span>
+                </div>
+                <h3>Real proof beats empty hype.</h3>
+                <div class="panel">
+                  <div class="panel-label">why this is the qc example</div>
+                  <p>the visual is already dense with proof, so audio should be optional and minimal.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">final example script</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">what you should check</div>
+                  <p><strong>mode:</strong> music only by default<br>
+                  <strong>length:</strong> 6 to 8 seconds<br>
+                  <strong>voice posture:</strong> if narrated, clipped and minimal</p>
+                </div>
               </div>
             </article>
             

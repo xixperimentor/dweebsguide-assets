@@ -210,5 +210,19 @@
         }
       ]
     }
-  }
+  },
+  "qc_canonical_ids": {
+    "Testimonial": "proof_03_ryan",
+    "Story Strip": "proof_51_story_matt",
+    "Partner Split": "proof_59_partner_charlie",
+    "Stats Grid": "proof_67_stats_core",
+    "Stats": "proof_05_stats"
+  },
+  "qc_checklist": [
+    "does line one match what is actually visible in the asset?",
+    "does the script add useful meaning without inventing detail or fake quotes?",
+    "is the length right for the family, or is it dragging past the visual?",
+    "does the tone sound like brand proof instead of character acting?",
+    "for stats assets: is narration actually helping, or should this stay music-only?"
+  ]
 }
