@@ -1,0 +1,36 @@
+{
+  "pile_number": 0,
+  "topic": "proof audio direction preview",
+  "item_count": 12,
+  "source_queue_kind": "proof-conversion direction preview",
+  "voice_rule": "all proof narration in this preview is third-person brand voice only. every family gets audio, including stats.",
+  "approval_prompt": "approve the overall direction, then i can generate the full proof batch in this style.",
+  "direction_changes": [
+    "all proof families narrated",
+    "third-person brand voice only",
+    "30-to-60-second target range",
+    "stats assets explained, not left music-only"
+  ],
+  "family_counts": {
+    "Testimonial": 3,
+    "Story Strip": 3,
+    "Partner Split": 3,
+    "Stats Grid": 2,
+    "Stats": 1
+  },
+  "selected_ids": [
+    "proof_03_ryan",
+    "proof_04_charlie",
+    "proof_09_ethan_intention",
+    "proof_51_story_matt",
+    "proof_53_story_ryan",
+    "proof_56_story_rahul",
+    "proof_59_partner_charlie",
+    "proof_61_partner_ethan",
+    "proof_64_partner_tariq",
+    "proof_67_stats_core",
+    "proof_69_stats_progress",
+    "proof_14_stats_members"
+  ],
+  "direction_data_file": "direction_scripts.json"
+}

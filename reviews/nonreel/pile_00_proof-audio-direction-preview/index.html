@@ -1,0 +1,582 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>proof audio direction preview</title>
+  <style>
+    :root {
+      --bg: #efe4d8;
+      --paper: #fff9f2;
+      --ink: #1f1813;
+      --muted: #665d53;
+      --line: #dccab4;
+      --accent: #8f4d32;
+      --accent-2: #295f6d;
+      --shadow: 0 14px 36px rgba(44, 31, 17, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      background:
+        radial-gradient(circle at top left, rgba(143, 77, 50, 0.12), transparent 22rem),
+        linear-gradient(180deg, #efe5d7 0%, #faf4ec 42%, #efe5d7 100%);
+    }
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 20px 14px 48px;
+    }
+    .hero, .section, .mini-card, .card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+    .hero, .section {
+      padding: 18px;
+      margin-bottom: 18px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    h1, h2, h3 {
+      margin: 0 0 10px;
+      line-height: 1.04;
+      font-weight: 600;
+    }
+    p, li, td, th {
+      color: var(--muted);
+      line-height: 1.5;
+      font-size: 16px;
+    }
+    .lead {
+      font-size: 18px;
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .mini-card {
+      padding: 14px;
+    }
+    .mini-label {
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-size: 11px;
+      color: var(--accent);
+      margin-bottom: 6px;
+    }
+    .mini-count {
+      font-size: 30px;
+      color: var(--ink);
+    }
+    .two-up {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px 8px;
+      border-top: 1px solid var(--line);
+      vertical-align: top;
+    }
+    .grid {
+      display: grid;
+      gap: 16px;
+    }
+    .card {
+      overflow: hidden;
+    }
+    .image-wrap {
+      background: #eadfcc;
+    }
+    .image-wrap img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    .card-body {
+      padding: 16px;
+    }
+    .meta {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+    .tag {
+      display: inline-block;
+      padding: 4px 8px;
+      border: 1px solid var(--line);
+      background: #f5ecdf;
+      color: var(--accent);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .tag-alt {
+      color: var(--accent-2);
+    }
+    .panel {
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--line);
+    }
+    .label {
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+    ul {
+      margin: 10px 0 0 18px;
+      padding: 0;
+    }
+    @media (max-width: 860px) {
+      .two-up {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">new direction preview</div>
+      <h1>proof audio direction preview</h1>
+      <p class="lead">this pack shows the direction i would use for the full proof lane if you approve it: <strong>12 items</strong>, all proof families covered, every single one with third-person brand narration, and longer scripts aimed at roughly the 30-to-60-second window.</p>
+      <div class="metrics">
+        
+        <article class="mini-card">
+          <div class="mini-label">testimonial</div>
+          <div class="mini-count">3</div>
+        </article>
+        
+        <article class="mini-card">
+          <div class="mini-label">story strip</div>
+          <div class="mini-count">3</div>
+        </article>
+        
+        <article class="mini-card">
+          <div class="mini-label">partner split</div>
+          <div class="mini-count">3</div>
+        </article>
+        
+        <article class="mini-card">
+          <div class="mini-label">stats grid</div>
+          <div class="mini-count">2</div>
+        </article>
+        
+        <article class="mini-card">
+          <div class="mini-label">stats</div>
+          <div class="mini-count">1</div>
+        </article>
+        
+      </div>
+    </section>
+
+    <section class="section two-up">
+      <div>
+        <div class="eyebrow">what changed</div>
+        <h2>direction i am proposing now</h2>
+        <ul>
+          <li>all narration stays in third-person brand voice.</li><li>every proof family gets audio, including stats assets.</li><li>target most scripts to land around 30 to 60 seconds, with most examples in this pack sitting closer to 35 to 50 seconds.</li><li>the voice should explain why the proof matters, not just read the card text back.</li><li>no fake member impressions, no diary acting, and no invented scene detail.</li>
+        </ul>
+      </div>
+      <div>
+        <div class="eyebrow">how to review it</div>
+        <h2>best qc method</h2>
+        <ul>
+          <li>first check whether the third-person rule holds in every card.</li>
+          <li>then check whether the audio adds meaning rather than just rereading the asset.</li>
+          <li>then check whether the length feels justified for the visual format.</li>
+          <li>for stats cards, focus on whether the narration earns the extra screen time.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="eyebrow">family direction</div>
+      <h2>script system by family</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>family</th>
+            <th>target duration</th>
+            <th>pace</th>
+            <th>direction</th>
+            <th>structure</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+            <tr>
+              <td>Testimonial</td>
+              <td>35 to 50 seconds</td>
+              <td>145 to 155 wpm</td>
+              <td>these should sound like calm proof summaries. the voice is there to translate the result into something believable and repeatable.</td>
+              <td>1. name the visible result<br>2. explain the behavioral shift underneath it<br>3. say why that matters in real dating behavior<br>4. close with a brief brand-proof anchor</td>
+            </tr>
+            
+            <tr>
+              <td>Story Strip</td>
+              <td>35 to 50 seconds</td>
+              <td>140 to 150 wpm</td>
+              <td>the strip already carries sequence visually, so the narration should guide the shift without turning into a full fictional story.</td>
+              <td>1. frame the card as observable progress<br>2. describe the shift in behavior at a pattern level<br>3. say why that sequence matters<br>4. close with a brief brand-proof anchor</td>
+            </tr>
+            
+            <tr>
+              <td>Partner Split</td>
+              <td>35 to 45 seconds</td>
+              <td>145 to 155 wpm</td>
+              <td>these are contrast assets. the script should sharpen the before-versus-after point and then stop.</td>
+              <td>1. name the contrast<br>2. explain why the stronger pattern lands better<br>3. connect the contrast to calmer, clearer behavior<br>4. close with a brief brand-proof anchor</td>
+            </tr>
+            
+            <tr>
+              <td>Stats Grid</td>
+              <td>30 to 45 seconds</td>
+              <td>145 to 155 wpm</td>
+              <td>stats still get narration, but the voice should support the numbers rather than compete with them.</td>
+              <td>1. name the headline<br>2. explain what the numbers prove<br>3. connect the numbers to why the system is trustworthy<br>4. close with a practical takeaway</td>
+            </tr>
+            
+            <tr>
+              <td>Stats</td>
+              <td>30 to 45 seconds</td>
+              <td>145 to 155 wpm</td>
+              <td>single stats cards should still be narrated, but with enough substance to justify the screen time.</td>
+              <td>1. name the claim or headline<br>2. explain what makes that claim credible<br>3. connect it to the type of man this system is for<br>4. close with a simple proof takeaway</td>
+            </tr>
+            
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <div class="eyebrow">preview set</div>
+      <h2>12 representative items</h2>
+      <p>if this feels right, i can apply the same direction to the full proof batch instead of guessing one family at a time.</p>
+    </section>
+
+    <section class="grid">
+      
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_03_ryan.png" alt="proof_03_ryan">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">testimonial</span>
+                  <span class="tag tag-alt">proof_03_ryan</span>
+                </div>
+                <h3>Clear guidance beats vague motivation.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>clean testimonial example where the headline is practical, not flashy.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>37 seconds estimated, 93 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this card works because the result is practical instead of theatrical. the visible change is that this member moved away from vague motivation and toward guidance he could actually use when dating felt uncertain. that matters because most men do not need another burst of confidence content. they need a framework that still helps when nerves, ambiguity, and mixed signals show up in real time. the proof here is not just that the headline sounds good. it is that the result points to cleaner decisions, steadier follow-through, and progress that can actually repeat.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_04_charlie.png" alt="proof_04_charlie">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">testimonial</span>
+                  <span class="tag tag-alt">proof_04_charlie</span>
+                </div>
+                <h3>The change is visible in the relationship.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>testimonial example about visible change, useful for how we talk about outside-the-system proof.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>39 seconds estimated, 97 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>what makes this proof card strong is that the shift is visible beyond the member himself. the headline points to change that other people can feel in the relationship, which usually means the progress moved past theory and into behavior. a result like that suggests better regulation, clearer communication, and more grounded presence over time. that is exactly the kind of proof that matters more than hype, because it implies the change became noticeable in real interactions. this is the lane torch method wants to live in: practical growth that people around the member can actually recognize.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_09_ethan_intention.png" alt="proof_09_ethan_intention">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">testimonial</span>
+                  <span class="tag tag-alt">proof_09_ethan_intention</span>
+                </div>
+                <h3>Respond with intention, not panic.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>testimonial example where the script can turn a short headline into a fuller behavioral explanation.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>37 seconds estimated, 93 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>the useful shift on this card is not just that this member got calmer. it is that his responses stopped being driven by panic and started being driven by intention. that usually changes everything, because reactive behavior is what makes so many men look rushed, approval-seeking, or hard to trust. when the system helps a member slow down enough to choose a better move, the result is not only better texting or dating outcomes. the deeper result is that his behavior becomes more deliberate, more self-respecting, and easier for another person to receive.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_51_story_matt.png" alt="proof_51_story_matt">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">story strip</span>
+                  <span class="tag tag-alt">proof_51_story_matt</span>
+                </div>
+                <h3>Story Strip / Matt</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>story strip example for an observable shift without inventing details.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>39 seconds estimated, 98 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this story strip is useful because it makes progress feel observable instead of abstract. the viewer does not need a fake testimonial performance to understand the point. the card itself already suggests a member who became less reactive and more grounded across actual situations. that is what the narration should underline. the value here is not that this member suddenly turned into a different person overnight. the value is that the behavior looks calmer, more stable, and more repeatable from panel to panel. that is the kind of shift people can trust because it looks lived, not staged.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_53_story_ryan.png" alt="proof_53_story_ryan">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">story strip</span>
+                  <span class="tag tag-alt">proof_53_story_ryan</span>
+                </div>
+                <h3>Story Strip / Ryan</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>story strip example with another member so the family does not feel one-note.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>40 seconds estimated, 100 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>for a card like this, the narration should treat the sequence as proof of process. the point is that the member did not just collect one good moment and call it transformation. the strip suggests that his behavior started organizing itself in a better direction across real interactions. that matters because dating progress becomes believable when it looks like a pattern instead of a lucky spike. the strongest read of this asset is that the system helped this member respond with more clarity, more steadiness, and less wasted motion. that is exactly what a good story-style proof card should communicate.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_56_story_rahul.png" alt="proof_56_story_rahul">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">story strip</span>
+                  <span class="tag tag-alt">proof_56_story_rahul</span>
+                </div>
+                <h3>Story Strip / Rahul</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>story strip example to test whether the narrative pattern still holds on neighboring assets.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>40 seconds estimated, 99 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this is another good example of why story strips can carry longer audio than the headline cards. the visual already implies movement, so the narration can explain what that movement means without inventing extra drama. the safe interpretation here is that the member became more grounded in how he moved through real moments, and that those moments started looking more coherent over time. that is valuable proof because viewers can imagine the change happening step by step, not as some magic personality swap. when this format works, it turns proof into something the audience can actually follow and believe.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_59_partner_charlie.png" alt="proof_59_partner_charlie">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">partner split</span>
+                  <span class="tag tag-alt">proof_59_partner_charlie</span>
+                </div>
+                <h3>Partner Split / Charlie</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>partner split example for the core before-versus-after contrast.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>39 seconds estimated, 98 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>the reason this partner split works is that the contrast does most of the persuasion. the stronger side of the card usually points toward behavior that feels calmer, clearer, and easier to trust. that matters because a lot of dating advice stays too abstract about what change should actually look like. this format gives the viewer a cleaner comparison. it makes the old pattern feel more obviously costly, and it makes the better pattern feel more usable. the narration should simply sharpen that contrast and remind the viewer that this is proof of behavioral change, not just branding.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_61_partner_ethan.png" alt="proof_61_partner_ethan">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">partner split</span>
+                  <span class="tag tag-alt">proof_61_partner_ethan</span>
+                </div>
+                <h3>Partner Split / Ethan</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>partner split example to make sure the family shell still works when the face/name changes.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>40 seconds estimated, 99 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>a contrast asset like this is strongest when the narration respects how much the image is already doing. the voice does not need to over-explain every label. it just needs to make the takeaway unmistakable. the stronger pattern on a card like this usually reads as less frantic, less approval-seeking, and more grounded in self-respect. that is why the before-and-after format matters. it shows that the member is not trying harder in a vague way. he is behaving differently in a way another person can actually feel. that is the kind of proof that carries weight in the feed.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_64_partner_tariq.png" alt="proof_64_partner_tariq">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">partner split</span>
+                  <span class="tag tag-alt">proof_64_partner_tariq</span>
+                </div>
+                <h3>Partner Split / Tariq</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>partner split example to test repetition risk across the family.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>39 seconds estimated, 98 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this partner split should be narrated as evidence of contrast, not as a mini lecture. the point is that the viewer can see a more stable pattern replacing a weaker one. when that is explained well, the asset becomes more than a motivational card. it becomes a practical example of what better behavior actually looks like. that is why this family can support spoken audio even without a diary-style story. the voice is there to tell the viewer what the contrast means: less confusion, less pressure, and a version of directness that feels stronger because it is calmer.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_67_stats_core.png" alt="proof_67_stats_core">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">stats grid</span>
+                  <span class="tag tag-alt">proof_67_stats_core</span>
+                </div>
+                <h3>Real proof beats empty hype.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>stats grid example for the broadest proof headline in the lane.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>41 seconds estimated, 102 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this kind of stats grid should still have narration, but the narration needs to serve the headline instead of fighting the layout. the core claim here is that real proof beats empty hype, and the job of the voice is to explain why that is a serious standard, not just a catchy line. numbers matter because they tell the viewer the system is being judged by repeatable outcomes, not by confidence theater. when a brand can show structure, reps, and visible follow-through, it starts sounding more credible to analytical people who are done guessing. that is what this family should make legible.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_69_stats_progress.png" alt="proof_69_stats_progress">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">stats grid</span>
+                  <span class="tag tag-alt">proof_69_stats_progress</span>
+                </div>
+                <h3>This is what structured progress looks like.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>stats grid example that leans more into structure and repeatability.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>38 seconds estimated, 96 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>this card points to structured progress, and that is exactly what the narration should unpack. the value of a grid like this is not that it throws information at the viewer. the value is that it suggests a system with measurable movement instead of vague inspiration. for the right audience, that distinction matters a lot. the viewer should come away feeling that torch method is built to produce trackable change through repetition, structure, and better decision-making. that is why the voice should not just read the headline. it should translate the headline into a trust signal.</p>
+                </div>
+              </div>
+            </article>
+            
+            <article class="card">
+              <div class="image-wrap">
+                <img src="https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/proof_ads/proof_14_stats_members.png" alt="proof_14_stats_members">
+              </div>
+              <div class="card-body">
+                <div class="meta">
+                  <span class="tag">stats</span>
+                  <span class="tag tag-alt">proof_14_stats_members</span>
+                </div>
+                <h3>This is not a vague little side program.</h3>
+                <div class="panel">
+                  <div class="label">direction note</div>
+                  <p>single stats example to prove that even the simpler stats cards can still justify narrated treatment.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">target read</div>
+                  <p>42 seconds estimated, 104 words, third-person brand narration.</p>
+                </div>
+                <div class="panel">
+                  <div class="label">example script</div>
+                  <p>even a simpler stats card like this should still carry narration if the goal is a fuller reel. the useful point here is that the system is not being presented like a vague side project with no real weight behind it. this asset suggests scale, seriousness, and enough structure for the viewer to treat the offer like an actual method rather than motivational content. that matters for the kind of man who wants evidence before he buys into anything. the narration should make that explicit: this is meant to feel like a real operating system for dating progress, not a collection of random tips.</p>
+                </div>
+              </div>
+            </article>
+            
+    </section>
+  </main>
+</body>
+</html>

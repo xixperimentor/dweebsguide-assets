@@ -1,0 +1,188 @@
+{
+  "master_rules": [
+    "all narration stays in third-person brand voice.",
+    "every proof family gets audio, including stats assets.",
+    "target most scripts to land around 30 to 60 seconds, with most examples in this pack sitting closer to 35 to 50 seconds.",
+    "the voice should explain why the proof matters, not just read the card text back.",
+    "no fake member impressions, no diary acting, and no invented scene detail."
+  ],
+  "family_direction": {
+    "Testimonial": {
+      "duration_target": "35 to 50 seconds",
+      "pace": "145 to 155 wpm",
+      "structure": [
+        "name the visible result",
+        "explain the behavioral shift underneath it",
+        "say why that matters in real dating behavior",
+        "close with a brief brand-proof anchor"
+      ],
+      "direction": "these should sound like calm proof summaries. the voice is there to translate the result into something believable and repeatable."
+    },
+    "Story Strip": {
+      "duration_target": "35 to 50 seconds",
+      "pace": "140 to 150 wpm",
+      "structure": [
+        "frame the card as observable progress",
+        "describe the shift in behavior at a pattern level",
+        "say why that sequence matters",
+        "close with a brief brand-proof anchor"
+      ],
+      "direction": "the strip already carries sequence visually, so the narration should guide the shift without turning into a full fictional story."
+    },
+    "Partner Split": {
+      "duration_target": "35 to 45 seconds",
+      "pace": "145 to 155 wpm",
+      "structure": [
+        "name the contrast",
+        "explain why the stronger pattern lands better",
+        "connect the contrast to calmer, clearer behavior",
+        "close with a brief brand-proof anchor"
+      ],
+      "direction": "these are contrast assets. the script should sharpen the before-versus-after point and then stop."
+    },
+    "Stats Grid": {
+      "duration_target": "30 to 45 seconds",
+      "pace": "145 to 155 wpm",
+      "structure": [
+        "name the headline",
+        "explain what the numbers prove",
+        "connect the numbers to why the system is trustworthy",
+        "close with a practical takeaway"
+      ],
+      "direction": "stats still get narration, but the voice should support the numbers rather than compete with them."
+    },
+    "Stats": {
+      "duration_target": "30 to 45 seconds",
+      "pace": "145 to 155 wpm",
+      "structure": [
+        "name the claim or headline",
+        "explain what makes that claim credible",
+        "connect it to the type of man this system is for",
+        "close with a simple proof takeaway"
+      ],
+      "direction": "single stats cards should still be narrated, but with enough substance to justify the screen time."
+    }
+  },
+  "items": [
+    {
+      "proof_id": "proof_03_ryan",
+      "title": "Clear guidance beats vague motivation.",
+      "family": "Testimonial",
+      "public_slug": "proof_03_ryan.png",
+      "why_chosen": "clean testimonial example where the headline is practical, not flashy.",
+      "script": "this card works because the result is practical instead of theatrical. the visible change is that this member moved away from vague motivation and toward guidance he could actually use when dating felt uncertain. that matters because most men do not need another burst of confidence content. they need a framework that still helps when nerves, ambiguity, and mixed signals show up in real time. the proof here is not just that the headline sounds good. it is that the result points to cleaner decisions, steadier follow-through, and progress that can actually repeat.",
+      "word_count": 93,
+      "estimated_seconds": 37
+    },
+    {
+      "proof_id": "proof_04_charlie",
+      "title": "The change is visible in the relationship.",
+      "family": "Testimonial",
+      "public_slug": "proof_04_charlie.png",
+      "why_chosen": "testimonial example about visible change, useful for how we talk about outside-the-system proof.",
+      "script": "what makes this proof card strong is that the shift is visible beyond the member himself. the headline points to change that other people can feel in the relationship, which usually means the progress moved past theory and into behavior. a result like that suggests better regulation, clearer communication, and more grounded presence over time. that is exactly the kind of proof that matters more than hype, because it implies the change became noticeable in real interactions. this is the lane torch method wants to live in: practical growth that people around the member can actually recognize.",
+      "word_count": 97,
+      "estimated_seconds": 39
+    },
+    {
+      "proof_id": "proof_09_ethan_intention",
+      "title": "Respond with intention, not panic.",
+      "family": "Testimonial",
+      "public_slug": "proof_09_ethan_intention.png",
+      "why_chosen": "testimonial example where the script can turn a short headline into a fuller behavioral explanation.",
+      "script": "the useful shift on this card is not just that this member got calmer. it is that his responses stopped being driven by panic and started being driven by intention. that usually changes everything, because reactive behavior is what makes so many men look rushed, approval-seeking, or hard to trust. when the system helps a member slow down enough to choose a better move, the result is not only better texting or dating outcomes. the deeper result is that his behavior becomes more deliberate, more self-respecting, and easier for another person to receive.",
+      "word_count": 93,
+      "estimated_seconds": 37
+    },
+    {
+      "proof_id": "proof_51_story_matt",
+      "title": "Story Strip / Matt",
+      "family": "Story Strip",
+      "public_slug": "proof_51_story_matt.png",
+      "why_chosen": "story strip example for an observable shift without inventing details.",
+      "script": "this story strip is useful because it makes progress feel observable instead of abstract. the viewer does not need a fake testimonial performance to understand the point. the card itself already suggests a member who became less reactive and more grounded across actual situations. that is what the narration should underline. the value here is not that this member suddenly turned into a different person overnight. the value is that the behavior looks calmer, more stable, and more repeatable from panel to panel. that is the kind of shift people can trust because it looks lived, not staged.",
+      "word_count": 98,
+      "estimated_seconds": 39
+    },
+    {
+      "proof_id": "proof_53_story_ryan",
+      "title": "Story Strip / Ryan",
+      "family": "Story Strip",
+      "public_slug": "proof_53_story_ryan.png",
+      "why_chosen": "story strip example with another member so the family does not feel one-note.",
+      "script": "for a card like this, the narration should treat the sequence as proof of process. the point is that the member did not just collect one good moment and call it transformation. the strip suggests that his behavior started organizing itself in a better direction across real interactions. that matters because dating progress becomes believable when it looks like a pattern instead of a lucky spike. the strongest read of this asset is that the system helped this member respond with more clarity, more steadiness, and less wasted motion. that is exactly what a good story-style proof card should communicate.",
+      "word_count": 100,
+      "estimated_seconds": 40
+    },
+    {
+      "proof_id": "proof_56_story_rahul",
+      "title": "Story Strip / Rahul",
+      "family": "Story Strip",
+      "public_slug": "proof_56_story_rahul.png",
+      "why_chosen": "story strip example to test whether the narrative pattern still holds on neighboring assets.",
+      "script": "this is another good example of why story strips can carry longer audio than the headline cards. the visual already implies movement, so the narration can explain what that movement means without inventing extra drama. the safe interpretation here is that the member became more grounded in how he moved through real moments, and that those moments started looking more coherent over time. that is valuable proof because viewers can imagine the change happening step by step, not as some magic personality swap. when this format works, it turns proof into something the audience can actually follow and believe.",
+      "word_count": 99,
+      "estimated_seconds": 40
+    },
+    {
+      "proof_id": "proof_59_partner_charlie",
+      "title": "Partner Split / Charlie",
+      "family": "Partner Split",
+      "public_slug": "proof_59_partner_charlie.png",
+      "why_chosen": "partner split example for the core before-versus-after contrast.",
+      "script": "the reason this partner split works is that the contrast does most of the persuasion. the stronger side of the card usually points toward behavior that feels calmer, clearer, and easier to trust. that matters because a lot of dating advice stays too abstract about what change should actually look like. this format gives the viewer a cleaner comparison. it makes the old pattern feel more obviously costly, and it makes the better pattern feel more usable. the narration should simply sharpen that contrast and remind the viewer that this is proof of behavioral change, not just branding.",
+      "word_count": 98,
+      "estimated_seconds": 39
+    },
+    {
+      "proof_id": "proof_61_partner_ethan",
+      "title": "Partner Split / Ethan",
+      "family": "Partner Split",
+      "public_slug": "proof_61_partner_ethan.png",
+      "why_chosen": "partner split example to make sure the family shell still works when the face/name changes.",
+      "script": "a contrast asset like this is strongest when the narration respects how much the image is already doing. the voice does not need to over-explain every label. it just needs to make the takeaway unmistakable. the stronger pattern on a card like this usually reads as less frantic, less approval-seeking, and more grounded in self-respect. that is why the before-and-after format matters. it shows that the member is not trying harder in a vague way. he is behaving differently in a way another person can actually feel. that is the kind of proof that carries weight in the feed.",
+      "word_count": 99,
+      "estimated_seconds": 40
+    },
+    {
+      "proof_id": "proof_64_partner_tariq",
+      "title": "Partner Split / Tariq",
+      "family": "Partner Split",
+      "public_slug": "proof_64_partner_tariq.png",
+      "why_chosen": "partner split example to test repetition risk across the family.",
+      "script": "this partner split should be narrated as evidence of contrast, not as a mini lecture. the point is that the viewer can see a more stable pattern replacing a weaker one. when that is explained well, the asset becomes more than a motivational card. it becomes a practical example of what better behavior actually looks like. that is why this family can support spoken audio even without a diary-style story. the voice is there to tell the viewer what the contrast means: less confusion, less pressure, and a version of directness that feels stronger because it is calmer.",
+      "word_count": 98,
+      "estimated_seconds": 39
+    },
+    {
+      "proof_id": "proof_67_stats_core",
+      "title": "Real proof beats empty hype.",
+      "family": "Stats Grid",
+      "public_slug": "proof_67_stats_core.png",
+      "why_chosen": "stats grid example for the broadest proof headline in the lane.",
+      "script": "this kind of stats grid should still have narration, but the narration needs to serve the headline instead of fighting the layout. the core claim here is that real proof beats empty hype, and the job of the voice is to explain why that is a serious standard, not just a catchy line. numbers matter because they tell the viewer the system is being judged by repeatable outcomes, not by confidence theater. when a brand can show structure, reps, and visible follow-through, it starts sounding more credible to analytical people who are done guessing. that is what this family should make legible.",
+      "word_count": 102,
+      "estimated_seconds": 41
+    },
+    {
+      "proof_id": "proof_69_stats_progress",
+      "title": "This is what structured progress looks like.",
+      "family": "Stats Grid",
+      "public_slug": "proof_69_stats_progress.png",
+      "why_chosen": "stats grid example that leans more into structure and repeatability.",
+      "script": "this card points to structured progress, and that is exactly what the narration should unpack. the value of a grid like this is not that it throws information at the viewer. the value is that it suggests a system with measurable movement instead of vague inspiration. for the right audience, that distinction matters a lot. the viewer should come away feeling that torch method is built to produce trackable change through repetition, structure, and better decision-making. that is why the voice should not just read the headline. it should translate the headline into a trust signal.",
+      "word_count": 96,
+      "estimated_seconds": 38
+    },
+    {
+      "proof_id": "proof_14_stats_members",
+      "title": "This is not a vague little side program.",
+      "family": "Stats",
+      "public_slug": "proof_14_stats_members.png",
+      "why_chosen": "single stats example to prove that even the simpler stats cards can still justify narrated treatment.",
+      "script": "even a simpler stats card like this should still carry narration if the goal is a fuller reel. the useful point here is that the system is not being presented like a vague side project with no real weight behind it. this asset suggests scale, seriousness, and enough structure for the viewer to treat the offer like an actual method rather than motivational content. that matters for the kind of man who wants evidence before he buys into anything. the narration should make that explicit: this is meant to feel like a real operating system for dating progress, not a collection of random tips.",
+      "word_count": 104,
+      "estimated_seconds": 42
+    }
+  ]
+}
