@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>first nonreel pile review</title>
+  <style>
+    :root {
+      --bg: #f6f1e7;
+      --panel: #fffaf1;
+      --ink: #221c15;
+      --muted: #655b50;
+      --line: #d9cdbb;
+      --accent: #9d5638;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at top right, rgba(214,169,136,0.24), rgba(214,169,136,0) 24rem),
+        linear-gradient(180deg, #f1e7d8 0%, #f9f4ec 44%, #f1e7d8 100%);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    main {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 22px 16px 40px;
+    }
+    .hero, .item, .panel, .voice-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      box-shadow: 0 10px 30px rgba(69, 52, 31, 0.06);
+    }
+    .hero {
+      padding: 22px;
+      margin-bottom: 18px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+    h1, h2, h3 {
+      margin: 0 0 10px;
+      font-weight: 600;
+    }
+    p {
+      line-height: 1.5;
+    }
+    .muted {
+      color: var(--muted);
+    }
+    .voice-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px;
+      margin: 18px 0 22px;
+    }
+    .voice-card {
+      padding: 14px;
+    }
+    audio, video {
+      width: 100%;
+      margin-top: 10px;
+    }
+    .item {
+      padding: 18px;
+      margin-top: 18px;
+    }
+    .item-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: start;
+    }
+    .status-block {
+      min-width: 260px;
+      font-size: 14px;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+    .slides {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 10px;
+      margin: 16px 0;
+    }
+    .slides img {
+      width: 100%;
+      border: 1px solid var(--line);
+      display: block;
+      background: #eee6d7;
+    }
+    .two-col {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .panel {
+      padding: 14px;
+    }
+    pre {
+      white-space: pre-wrap;
+      font: 14px/1.55 Consolas, "Courier New", monospace;
+      margin: 0;
+      color: var(--ink);
+    }
+    .response-box {
+      padding: 14px;
+      background: rgba(157, 86, 56, 0.08);
+      border: 1px solid rgba(157, 86, 56, 0.2);
+      margin-top: 14px;
+    }
+    @media (max-width: 800px) {
+      .item-top {
+        flex-direction: column;
+      }
+      main {
+        padding: 14px 10px 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">pile 01 / queued nonreel source content</div>
+      <h1>playful tension and teasing</h1>
+      <p>this is the first active non-reel pile from the old daily queue. it has <strong>4</strong> queued carousel posts, and each one already maps to a legacy reel script and reel asset. your decision here is mainly the script handling and the ai voice direction we should carry forward, not whether the topic exists.</p>
+      <p><strong>rule for this pile:</strong> brand/staff voices only. no character voices.</p>
+      <div class="response-box">
+        reply in a short format like:
+        <br>voice: brand default / george / adam
+        <br>script: keep all / tighten all / rewrite item 2 + 4
+      </div>
+    </section>
+
+    <section class="hero">
+      <div class="eyebrow">voice options</div>
+      <div class="voice-grid"><div class='voice-card'><h3>brand default</h3><p><strong>male_onyx_anchor</strong></p><p>best baseline for evergreen teaching reels.</p><audio controls preload='metadata' src='samples/brand_voice.wav'></audio></div><div class='voice-card'><h3>brand reflective alt</h3><p><strong>male_george_humanized</strong></p><p>slightly softer, more reflective staff delivery.</p><audio controls preload='metadata' src='samples/reserve_teacher_voice_2.wav'></audio></div><div class='voice-card'><h3>brand direct alt</h3><p><strong>male_adam_humanized</strong></p><p>drier and more direct if you want less polished warmth.</p><audio controls preload='metadata' src='samples/reserve_teacher_voice_1.wav'></audio></div></div>
+    </section>
+
+    
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 1</div>
+                  <h2>queue 029</h2>
+                  <p class="muted">scheduled 2026-06-22 18:11</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>old mapped voice:</strong> bm_lewis</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/01_C029-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/02_C029-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/03_C029-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/04_C029-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/05_C029-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Playfulness works when the other person feels included, not cornered.
+
+Tease only when warmth is already present and stop immediately if the response turns flat or guarded.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember this one date where I tried to be funny, but it kind of backfired.
+
+I made a joke about her taste in music, thinking it would lighten the mood. Instead, I saw her face change. She looked taken aback, like I had hit a nerve. I realized that I’d crossed a line. It wasn’t playful; it felt mean-spirited to her. So, I took a step back. I apologized, shifted the tone, and focused on what we were enjoying together. I started to tease her about something harmless, and this time, it landed beautifully. So, my advice? Only tease when you’re already sharing a good vibe. If the energy shifts, drop it immediately. Make sure you’re both in on the fun. That&#x27;s the key to keeping it light-hearted.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_029_playful-tension-and-teasing/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_029_playful-tension-and-teasing/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 2</div>
+                  <h2>queue 030</h2>
+                  <p class="muted">scheduled 2026-06-22 19:41</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/01_C030-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/02_C030-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/03_C030-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/04_C030-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/05_C030-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Tension in attraction is usually better created through timing than through edginess.
+
+Experiment with restraint first: say a little less, rush a little less, and notice what the silence does.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember a date where I was trying too hard to be funny and keep the energy high.
+
+I was cracking jokes, but I could feel her pull away. It was confusing because I thought I was being charming, but it just didn’t land. Then I caught myself overexplaining everything instead of enjoying the moment. I took a breath and decided to dial it down. I held her gaze a bit longer, smiled, and let the silence sit between us. That shift changed the vibe entirely. It felt more natural, more relaxed. So if you find yourself in a similar spot, try saying less and just be present. Trust the silence; it can create a spark you didn’t even know was there.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_030_playful-tension-and-teasing/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_030_playful-tension-and-teasing/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 3</div>
+                  <h2>queue 031</h2>
+                  <p class="muted">scheduled 2026-06-23 10:20</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/01_C031-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/02_C031-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/03_C031-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/04_C031-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/05_C031-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Good flirting is responsive, not preloaded.
+
+Use fewer memorized moves and more callbacks, contrasts, and reactions to what is in front of you.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember a date that started off great, but somewhere along the way, I got too caught up in trying to impress her with these flirty lines I’d seen online.
+
+I thought I was being charming, but it just felt forced, and I could tell she wasn’t really engaged. Then I caught myself drifting from the moment. I decided to switch gears. Instead of sticking to my script, I began picking up on her humor and the things she said. I threw in a playful jab about her favorite movie and it landed perfectly. Looking back, I realized that being present and responding to her vibe was way more effective. If I could give advice to anyone, it would be to let the energy of the moment guide your flirting. Real connection happens when you’re genuinely tuned in.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_031_playful-tension-and-teasing/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_031_playful-tension-and-teasing/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 4</div>
+                  <h2>queue 032</h2>
+                  <p class="muted">scheduled 2026-06-23 11:36</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/01_C032-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/02_C032-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/03_C032-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/04_C032-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/05_C032-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Attraction grows faster when seriousness and play can coexist.
+
+After a joking beat lands, practice saying one honest thing without changing the vibe into a confession scene.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember this one night out with a woman I thought was really cool.
+
+We hit it off, both joking around and laughing. But I noticed something was off. I was so caught up in trying to be funny that I stopped being real. Instead of just letting the moment breathe, I kept throwing jokes out as a shield. Then, halfway through the evening, I paused. I decided to drop the act for a second and just told her, “I really enjoy spending time with you.” It totally changed the energy. We shifted from playful banter to a genuine connection. So, if you&#x27;re in that same spot, don&#x27;t shy away from being honest. It&#x27;s okay to mix humor with sincerity. Trust me, it creates a deeper vibe that she’ll definitely appreciate.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_032_playful-tension-and-teasing/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_032_playful-tension-and-teasing/reel.mp4'></video>
+              </div>
+            </section>
+            
+  </main>
+</body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "pile_number": 1,
+  "topic": "PLAYFUL TENSION AND TEASING",
+  "item_count": 4,
+  "source_queue_kind": "queued nonreel source content",
+  "voice_rule": "brand/staff voices only for this pile. no character voices.",
+  "approval_prompt": "reply with one voice direction for the pile plus any script rewrites item by item if needed.",
+  "voice_options": [
+    {
+      "label": "brand default",
+      "voice_id": "male_onyx_anchor",
+      "note": "best baseline for evergreen teaching reels.",
+      "sample": "samples/brand_voice.wav"
+    },
+    {
+      "label": "brand reflective alt",
+      "voice_id": "male_george_humanized",
+      "note": "slightly softer, more reflective staff delivery.",
+      "sample": "samples/reserve_teacher_voice_2.wav"
+    },
+    {
+      "label": "brand direct alt",
+      "voice_id": "male_adam_humanized",
+      "note": "drier and more direct if you want less polished warmth.",
+      "sample": "samples/reserve_teacher_voice_1.wav"
+    }
+  ],
+  "items": [
+    {
+      "source_queue_id": "029",
+      "scheduled_local": "2026-06-22 18:11",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/01_C029-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/02_C029-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/03_C029-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/04_C029-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_029_playful-tension-and-teasing_format_a/slides/05_C029-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Playfulness works when the other person feels included, not cornered.\n\nTease only when warmth is already present and stop immediately if the response turns flat or guarded.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember this one date where I tried to be funny, but it kind of backfired.\n\nI made a joke about her taste in music, thinking it would lighten the mood. Instead, I saw her face change. She looked taken aback, like I had hit a nerve. I realized that I\u2019d crossed a line. It wasn\u2019t playful; it felt mean-spirited to her. So, I took a step back. I apologized, shifted the tone, and focused on what we were enjoying together. I started to tease her about something harmless, and this time, it landed beautifully. So, my advice? Only tease when you\u2019re already sharing a good vibe. If the energy shifts, drop it immediately. Make sure you\u2019re both in on the fun. That's the key to keeping it light-hearted.",
+      "current_legacy_voice": "bm_lewis",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_029_playful-tension-and-teasing/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_029_playful-tension-and-teasing/cover.png",
+      "legacy_reel_status": "ready"
+    },
+    {
+      "source_queue_id": "030",
+      "scheduled_local": "2026-06-22 19:41",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/01_C030-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/02_C030-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/03_C030-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/04_C030-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_030_playful-tension-and-teasing_format_a/slides/05_C030-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Tension in attraction is usually better created through timing than through edginess.\n\nExperiment with restraint first: say a little less, rush a little less, and notice what the silence does.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember a date where I was trying too hard to be funny and keep the energy high.\n\nI was cracking jokes, but I could feel her pull away. It was confusing because I thought I was being charming, but it just didn\u2019t land. Then I caught myself overexplaining everything instead of enjoying the moment. I took a breath and decided to dial it down. I held her gaze a bit longer, smiled, and let the silence sit between us. That shift changed the vibe entirely. It felt more natural, more relaxed. So if you find yourself in a similar spot, try saying less and just be present. Trust the silence; it can create a spark you didn\u2019t even know was there.",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_030_playful-tension-and-teasing/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_030_playful-tension-and-teasing/cover.png",
+      "legacy_reel_status": "ready"
+    },
+    {
+      "source_queue_id": "031",
+      "scheduled_local": "2026-06-23 10:20",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/01_C031-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/02_C031-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/03_C031-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/04_C031-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_031_playful-tension-and-teasing_format_a/slides/05_C031-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Good flirting is responsive, not preloaded.\n\nUse fewer memorized moves and more callbacks, contrasts, and reactions to what is in front of you.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember a date that started off great, but somewhere along the way, I got too caught up in trying to impress her with these flirty lines I\u2019d seen online.\n\nI thought I was being charming, but it just felt forced, and I could tell she wasn\u2019t really engaged. Then I caught myself drifting from the moment. I decided to switch gears. Instead of sticking to my script, I began picking up on her humor and the things she said. I threw in a playful jab about her favorite movie and it landed perfectly. Looking back, I realized that being present and responding to her vibe was way more effective. If I could give advice to anyone, it would be to let the energy of the moment guide your flirting. Real connection happens when you\u2019re genuinely tuned in.",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_031_playful-tension-and-teasing/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_031_playful-tension-and-teasing/cover.png",
+      "legacy_reel_status": "ready"
+    },
+    {
+      "source_queue_id": "032",
+      "scheduled_local": "2026-06-23 11:36",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/01_C032-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/02_C032-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/03_C032-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/04_C032-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_032_playful-tension-and-teasing_format_a/slides/05_C032-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Attraction grows faster when seriousness and play can coexist.\n\nAfter a joking beat lands, practice saying one honest thing without changing the vibe into a confession scene.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember this one night out with a woman I thought was really cool.\n\nWe hit it off, both joking around and laughing. But I noticed something was off. I was so caught up in trying to be funny that I stopped being real. Instead of just letting the moment breathe, I kept throwing jokes out as a shield. Then, halfway through the evening, I paused. I decided to drop the act for a second and just told her, \u201cI really enjoy spending time with you.\u201d It totally changed the energy. We shifted from playful banter to a genuine connection. So, if you're in that same spot, don't shy away from being honest. It's okay to mix humor with sincerity. Trust me, it creates a deeper vibe that she\u2019ll definitely appreciate.",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_032_playful-tension-and-teasing/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_032_playful-tension-and-teasing/cover.png",
+      "legacy_reel_status": "ready"
+    }
+  ]
+}
