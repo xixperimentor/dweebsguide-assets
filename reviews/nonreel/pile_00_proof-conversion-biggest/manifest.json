@@ -4,7 +4,7 @@
   "item_count": 100,
   "sample_item_count": 10,
   "source_queue_kind": "queued proof ads converted into reel candidates",
-  "voice_rule": "script approval first. defer final voice choice. stats-led proof defaults to music-only; testimonial, story strip, and partner split use brand narration.",
+  "voice_rule": "script approval first. all brand narration in this lane must stay third-person. stats-led proof defaults to music-only; testimonial, story strip, and partner split use third-person brand narration.",
   "approval_prompt": "approve the proof reel script system by family, then i will apply it across the full 100-item proof lane.",
   "family_counts": {
     "Testimonial": 47,

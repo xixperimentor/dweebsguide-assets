@@ -1,0 +1,118 @@
+{
+  "pile_number": 1,
+  "topic": "SELF-RESPECT AND NON-NEEDINESS",
+  "item_count": 4,
+  "source_queue_kind": "queued nonreel source content",
+  "voice_rule": "brand/staff voices only for this pile. keep narration in third-person brand voice only. no character voices.",
+  "approval_prompt": "reply with one voice direction for the pile plus any third-person script rewrites item by item if needed.",
+  "voice_options": [
+    {
+      "label": "brand default",
+      "voice_id": "male_onyx_anchor",
+      "note": "best baseline for evergreen teaching reels.",
+      "sample": "samples/brand_voice.wav"
+    },
+    {
+      "label": "brand reflective alt",
+      "voice_id": "male_george_humanized",
+      "note": "slightly softer, more reflective staff delivery.",
+      "sample": "samples/reserve_teacher_voice_2.wav"
+    },
+    {
+      "label": "brand direct alt",
+      "voice_id": "male_adam_humanized",
+      "note": "drier and more direct if you want less polished warmth.",
+      "sample": "samples/reserve_teacher_voice_1.wav"
+    }
+  ],
+  "items": [
+    {
+      "source_queue_id": "037",
+      "scheduled_local": "2026-06-24 09:06",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/01_C037-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/02_C037-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/03_C037-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/04_C037-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/05_C037-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Neediness is not just wanting connection; it is abandoning your center to secure it.\n\nWhen you feel urgency rising, delay one move long enough to ask whether this action is clear or just anxious.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember a time when I was texting this girl I really liked.\n\nI was eager for a response, and I found myself sending follow-ups when she didn\u2019t reply right away. It felt like I was on edge, desperately reaching for something that just wasn\u2019t there. Then, I took a step back. I realized I was compromising my own self-respect by chasing after her validation. So, instead of flooding her with messages, I focused on myself. I paused and gave it some time, which helped me regain clarity about what really mattered. If you find yourself in a similar spot, try this: resist the urge to chase. Check in with yourself and see if your actions are driven by desperation or confidence. That shift can make all the difference in how you connect with others.",
+      "conversion_status": "needs_script_rewrite",
+      "review_state": "needs_script_rewrite",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_037_self-respect-and-non-neediness/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_037_self-respect-and-non-neediness/cover.png",
+      "legacy_reel_status": "ready",
+      "script_policy_note": "legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval."
+    },
+    {
+      "source_queue_id": "038",
+      "scheduled_local": "2026-06-24 10:21",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/01_C038-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/02_C038-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/03_C038-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/04_C038-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/05_C038-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Self-respect becomes visible when you stop over-offering to earn a place in someone else's life.\n\nNotice where you routinely give more than the stage of the connection justifies, and reduce that by one notch.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember this one time I was getting to know someone, and I thought being the most available guy would win her over.\n\nI kept suggesting outings, always texting first. I wanted her to see how much I cared, but truth is, it just felt off, like I was trying too hard. Then it hit me. She wasn\u2019t putting in the same effort, and I was just giving without thinking about what we were actually building together. So, I dialed it back. I started matching her pace, being warm and present but not overextending myself. If I could share one piece of wisdom, it would be this: be mindful of how much you invest early on. Balance is key, and it shows real respect for both yourself and her.",
+      "conversion_status": "needs_script_rewrite",
+      "review_state": "needs_script_rewrite",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_038_self-respect-and-non-neediness/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_038_self-respect-and-non-neediness/cover.png",
+      "legacy_reel_status": "ready",
+      "script_policy_note": "legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval."
+    },
+    {
+      "source_queue_id": "039",
+      "scheduled_local": "2026-06-24 11:35",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/01_C039-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/02_C039-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/03_C039-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/04_C039-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/05_C039-FORMAT_A-S5.png"
+      ],
+      "source_caption": "A grounded man can desire strongly without acting desperate.\n\nPractice expressing interest in one sentence that does not ask the other person to manage your feelings.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "There was a time when I was really into this woman I met at a party.\n\nI liked her, but I felt anxious about putting myself out there. Instead of just saying I wanted to see her again, I played it cool. It didn't work. When I finally got the courage to be direct, I realized I was loaded with all this pressure, trying to gauge her every reaction. What I learned was that it\u2019s about expressing interest without needing her to validate my feelings. So, I decided to just say, \u201cI\u2019d love to grab a drink sometime.\u201d Simple, honest, and no strings attached. If I could give any advice, it would be this: own your feelings but don\u2019t let them own you. Confidence comes from a place of self-respect, not desperation.",
+      "conversion_status": "needs_script_rewrite",
+      "review_state": "needs_script_rewrite",
+      "current_legacy_voice": "bm_lewis",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_039_self-respect-and-non-neediness/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_039_self-respect-and-non-neediness/cover.png",
+      "legacy_reel_status": "ready",
+      "script_policy_note": "legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval."
+    },
+    {
+      "source_queue_id": "040",
+      "scheduled_local": "2026-06-24 14:06",
+      "slide_urls": [
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/01_C040-FORMAT_A-S1.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/02_C040-FORMAT_A-S2.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/03_C040-FORMAT_A-S3.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/04_C040-FORMAT_A-S4.png",
+        "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/05_C040-FORMAT_A-S5.png"
+      ],
+      "source_caption": "Confidence deepens when your private standards are stronger than your need for immediate approval.\n\nDefine your own score for a good interaction before you enter it, so someone else's mood does not define the whole event.\n\nSave this if you want calmer, clearer dating decisions without weird performance energy.\n\n#torchmethod #datingadvice #socialskills #selfimprovement",
+      "mapped_script": "I remember a time when I was really into this woman, and I just couldn't read her signals.\n\nOne minute, she seemed interested, and the next, she was distant. I found myself hanging on her every word, craving her approval. It was exhausting and honestly, pretty pathetic. Then I had a realization. I was letting her mood dictate my own feelings. So, I shifted my focus. Instead of chasing her responses, I decided to define what I wanted from our interactions\u2014clarity and respect. When I started walking away from those low-energy exchanges, I felt a strange sense of relief and strength. So, if you find yourself in a confusing moment, remember: set your own standards and stick to them. Don't let someone else\u2019s vibe determine your worth.",
+      "conversion_status": "needs_script_rewrite",
+      "review_state": "needs_script_rewrite",
+      "current_legacy_voice": "am_onyx_slow",
+      "recommended_voice_profile": "brand_default",
+      "recommended_voice_id": "male_onyx_anchor",
+      "reel_video_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_040_self-respect-and-non-neediness/reel.mp4",
+      "reel_cover_url": "https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_040_self-respect-and-non-neediness/cover.png",
+      "legacy_reel_status": "ready",
+      "script_policy_note": "legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval."
+    }
+  ]
+}

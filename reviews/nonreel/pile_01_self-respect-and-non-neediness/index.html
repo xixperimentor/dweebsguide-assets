@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>first nonreel pile review</title>
+  <style>
+    :root {
+      --bg: #f6f1e7;
+      --panel: #fffaf1;
+      --ink: #221c15;
+      --muted: #655b50;
+      --line: #d9cdbb;
+      --accent: #9d5638;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at top right, rgba(214,169,136,0.24), rgba(214,169,136,0) 24rem),
+        linear-gradient(180deg, #f1e7d8 0%, #f9f4ec 44%, #f1e7d8 100%);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    main {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 22px 16px 40px;
+    }
+    .hero, .item, .panel, .voice-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      box-shadow: 0 10px 30px rgba(69, 52, 31, 0.06);
+    }
+    .hero {
+      padding: 22px;
+      margin-bottom: 18px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+    h1, h2, h3 {
+      margin: 0 0 10px;
+      font-weight: 600;
+    }
+    p {
+      line-height: 1.5;
+    }
+    .muted {
+      color: var(--muted);
+    }
+    .voice-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px;
+      margin: 18px 0 22px;
+    }
+    .voice-card {
+      padding: 14px;
+    }
+    audio, video {
+      width: 100%;
+      margin-top: 10px;
+    }
+    .item {
+      padding: 18px;
+      margin-top: 18px;
+    }
+    .item-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: start;
+    }
+    .status-block {
+      min-width: 260px;
+      font-size: 14px;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+    .slides {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 10px;
+      margin: 16px 0;
+    }
+    .slides img {
+      width: 100%;
+      border: 1px solid var(--line);
+      display: block;
+      background: #eee6d7;
+    }
+    .two-col {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .panel {
+      padding: 14px;
+    }
+    pre {
+      white-space: pre-wrap;
+      font: 14px/1.55 Consolas, "Courier New", monospace;
+      margin: 0;
+      color: var(--ink);
+    }
+    .response-box {
+      padding: 14px;
+      background: rgba(157, 86, 56, 0.08);
+      border: 1px solid rgba(157, 86, 56, 0.2);
+      margin-top: 14px;
+    }
+    @media (max-width: 800px) {
+      .item-top {
+        flex-direction: column;
+      }
+      main {
+        padding: 14px 10px 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">pile 01 / queued nonreel source content</div>
+      <h1>self-respect and non-neediness</h1>
+      <p>this is the first active non-reel pile from the old daily queue. it has <strong>4</strong> queued carousel posts, and each one already maps to a legacy reel script and reel asset. your decision here is mainly the script handling and the ai voice direction we should carry forward, not whether the topic exists.</p>
+      <p><strong>rule for this pile:</strong> brand/staff voices only. no character voices.</p>
+      <div class="response-box">
+        reply in a short format like:
+        <br>voice: brand default / george / adam
+        <br>script: keep all / tighten all / rewrite item 2 + 4
+      </div>
+    </section>
+
+    <section class="hero">
+      <div class="eyebrow">voice options</div>
+      <div class="voice-grid"><div class='voice-card'><h3>brand default</h3><p><strong>male_onyx_anchor</strong></p><p>best baseline for evergreen teaching reels.</p><audio controls preload='metadata' src='samples/brand_voice.wav'></audio></div><div class='voice-card'><h3>brand reflective alt</h3><p><strong>male_george_humanized</strong></p><p>slightly softer, more reflective staff delivery.</p><audio controls preload='metadata' src='samples/reserve_teacher_voice_2.wav'></audio></div><div class='voice-card'><h3>brand direct alt</h3><p><strong>male_adam_humanized</strong></p><p>drier and more direct if you want less polished warmth.</p><audio controls preload='metadata' src='samples/reserve_teacher_voice_1.wav'></audio></div></div>
+    </section>
+
+    
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 1</div>
+                  <h2>queue 037</h2>
+                  <p class="muted">scheduled 2026-06-24 09:06</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>conversion status:</strong> needs_script_rewrite</div>
+                  <div><strong>review state:</strong> needs_script_rewrite</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/01_C037-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/02_C037-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/03_C037-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/04_C037-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_037_self-respect-and-non-neediness_format_a/slides/05_C037-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Neediness is not just wanting connection; it is abandoning your center to secure it.
+
+When you feel urgency rising, delay one move long enough to ask whether this action is clear or just anxious.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember a time when I was texting this girl I really liked.
+
+I was eager for a response, and I found myself sending follow-ups when she didn’t reply right away. It felt like I was on edge, desperately reaching for something that just wasn’t there. Then, I took a step back. I realized I was compromising my own self-respect by chasing after her validation. So, instead of flooding her with messages, I focused on myself. I paused and gave it some time, which helped me regain clarity about what really mattered. If you find yourself in a similar spot, try this: resist the urge to chase. Check in with yourself and see if your actions are driven by desperation or confidence. That shift can make all the difference in how you connect with others.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>script policy note</h3>
+                <pre>legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval.</pre>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_037_self-respect-and-non-neediness/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_037_self-respect-and-non-neediness/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 2</div>
+                  <h2>queue 038</h2>
+                  <p class="muted">scheduled 2026-06-24 10:21</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>conversion status:</strong> needs_script_rewrite</div>
+                  <div><strong>review state:</strong> needs_script_rewrite</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/01_C038-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/02_C038-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/03_C038-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/04_C038-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_038_self-respect-and-non-neediness_format_a/slides/05_C038-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Self-respect becomes visible when you stop over-offering to earn a place in someone else&#x27;s life.
+
+Notice where you routinely give more than the stage of the connection justifies, and reduce that by one notch.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember this one time I was getting to know someone, and I thought being the most available guy would win her over.
+
+I kept suggesting outings, always texting first. I wanted her to see how much I cared, but truth is, it just felt off, like I was trying too hard. Then it hit me. She wasn’t putting in the same effort, and I was just giving without thinking about what we were actually building together. So, I dialed it back. I started matching her pace, being warm and present but not overextending myself. If I could share one piece of wisdom, it would be this: be mindful of how much you invest early on. Balance is key, and it shows real respect for both yourself and her.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>script policy note</h3>
+                <pre>legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval.</pre>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_038_self-respect-and-non-neediness/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_038_self-respect-and-non-neediness/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 3</div>
+                  <h2>queue 039</h2>
+                  <p class="muted">scheduled 2026-06-24 11:35</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>conversion status:</strong> needs_script_rewrite</div>
+                  <div><strong>review state:</strong> needs_script_rewrite</div>
+                  <div><strong>old mapped voice:</strong> bm_lewis</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/01_C039-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/02_C039-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/03_C039-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/04_C039-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_039_self-respect-and-non-neediness_format_a/slides/05_C039-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>A grounded man can desire strongly without acting desperate.
+
+Practice expressing interest in one sentence that does not ask the other person to manage your feelings.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>There was a time when I was really into this woman I met at a party.
+
+I liked her, but I felt anxious about putting myself out there. Instead of just saying I wanted to see her again, I played it cool. It didn&#x27;t work. When I finally got the courage to be direct, I realized I was loaded with all this pressure, trying to gauge her every reaction. What I learned was that it’s about expressing interest without needing her to validate my feelings. So, I decided to just say, “I’d love to grab a drink sometime.” Simple, honest, and no strings attached. If I could give any advice, it would be this: own your feelings but don’t let them own you. Confidence comes from a place of self-respect, not desperation.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>script policy note</h3>
+                <pre>legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval.</pre>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_039_self-respect-and-non-neediness/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_039_self-respect-and-non-neediness/reel.mp4'></video>
+              </div>
+            </section>
+            
+            <section class="item">
+              <div class="item-top">
+                <div>
+                  <div class="eyebrow">item 4</div>
+                  <h2>queue 040</h2>
+                  <p class="muted">scheduled 2026-06-24 14:06</p>
+                </div>
+                <div class="status-block">
+                  <div><strong>legacy reel status:</strong> ready</div>
+                  <div><strong>conversion status:</strong> needs_script_rewrite</div>
+                  <div><strong>review state:</strong> needs_script_rewrite</div>
+                  <div><strong>old mapped voice:</strong> am_onyx_slow</div>
+                  <div><strong>recommended now:</strong> male_onyx_anchor</div>
+                </div>
+              </div>
+              <div class="slides"><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/01_C040-FORMAT_A-S1.png' alt='slide 1'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/02_C040-FORMAT_A-S2.png' alt='slide 2'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/03_C040-FORMAT_A-S3.png' alt='slide 3'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/04_C040-FORMAT_A-S4.png' alt='slide 4'><img src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/carousels/carousel_040_self-respect-and-non-neediness_format_a/slides/05_C040-FORMAT_A-S5.png' alt='slide 5'></div>
+              <div class="two-col">
+                <div class="panel">
+                  <h3>source caption</h3>
+                  <pre>Confidence deepens when your private standards are stronger than your need for immediate approval.
+
+Define your own score for a good interaction before you enter it, so someone else&#x27;s mood does not define the whole event.
+
+Save this if you want calmer, clearer dating decisions without weird performance energy.
+
+#torchmethod #datingadvice #socialskills #selfimprovement</pre>
+                </div>
+                <div class="panel">
+                  <h3>mapped reel script</h3>
+                  <pre>I remember a time when I was really into this woman, and I just couldn&#x27;t read her signals.
+
+One minute, she seemed interested, and the next, she was distant. I found myself hanging on her every word, craving her approval. It was exhausting and honestly, pretty pathetic. Then I had a realization. I was letting her mood dictate my own feelings. So, I shifted my focus. Instead of chasing her responses, I decided to define what I wanted from our interactions—clarity and respect. When I started walking away from those low-energy exchanges, I felt a strange sense of relief and strength. So, if you find yourself in a confusing moment, remember: set your own standards and stick to them. Don&#x27;t let someone else’s vibe determine your worth.</pre>
+                </div>
+              </div>
+              <div class="panel">
+                <h3>script policy note</h3>
+                <pre>legacy mapped script appears to be first-person. rewrite into third-person brand narration before voice approval.</pre>
+              </div>
+              <div class="panel">
+                <h3>mapped reel preview</h3>
+                <video controls preload='metadata' poster='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_040_self-respect-and-non-neediness/cover.png' src='https://raw.githubusercontent.com/xixperimentor/dweebsguide-assets/main/reels/reel_040_self-respect-and-non-neediness/reel.mp4'></video>
+              </div>
+            </section>
+            
+  </main>
+</body>
+</html>
