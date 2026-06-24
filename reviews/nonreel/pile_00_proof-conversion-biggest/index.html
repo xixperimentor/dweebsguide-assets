@@ -29,7 +29,7 @@
       margin: 0 auto;
       padding: 20px 14px 48px;
     }
-    .hero, .section, .sample-card, .mini-card {
+    .hero, .section, .sample-card, .mini-card, .blueprint-card {
       background: var(--paper);
       border: 1px solid var(--line);
       box-shadow: var(--shadow);
@@ -108,11 +108,14 @@
       border-top: 1px solid var(--line);
       vertical-align: top;
     }
-    .samples {
+    .blueprints, .samples {
       display: grid;
       gap: 16px;
     }
-    .sample-card {
+    .blueprints {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+    .sample-card, .blueprint-card {
       overflow: hidden;
     }
     .sample-image-wrap {
@@ -123,7 +126,7 @@
       width: 100%;
       height: auto;
     }
-    .sample-body {
+    .sample-body, .blueprint-card {
       padding: 16px;
     }
     .sample-meta {
@@ -173,7 +176,7 @@
     <section class="hero">
       <div class="eyebrow">largest non-reel conversion lane</div>
       <h1>proof conversion review pack</h1>
-      <p class="lead">this is the biggest non-reel backlog lane right now: <strong>100 proof assets</strong> that can become reels. this page is a smaller representative slice so you can approve the writing system before we touch final voice.</p>
+      <p class="lead">this is the biggest non-reel backlog lane right now: <strong>100 proof assets</strong> that can become reels. this page is a smaller representative slice so you can approve the audio-writing system before we touch final voice.</p>
       <div class="metrics">
         
             <article class="mini-card">
@@ -209,13 +212,13 @@
 
     <section class="section two-up">
       <div>
-        <div class="eyebrow">recommended script system</div>
-        <h2>the production rule i think we should approve</h2>
+        <div class="eyebrow">how i design these</div>
+        <h2>audio should do a different job in each family</h2>
         <ul>
-          <li>do not speak as the client. always summarize in brand voice.</li>
-          <li>do not invent diary details, quotes, or fake specificity that is not visible in the asset.</li>
-          <li>keep proof reels short and legible. these should feel like compressed trust signals, not story sermons.</li>
-          <li>use the visual family to decide the script shape instead of forcing one narration pattern onto all 100 assets.</li>
+          <li>testimonial reels should translate a headline result into a believable behavioral signal.</li>
+          <li>story strips already imply sequence, so the narration should only guide the shift, not retell a full story.</li>
+          <li>partner splits are contrast assets. the voice should sharpen the contrast and exit fast.</li>
+          <li>stats assets win on legibility. narration is optional because too much voice makes them slower and weaker.</li>
         </ul>
       </div>
       <div>
@@ -237,14 +240,15 @@ rules:
 
     <section class="section">
       <div class="eyebrow">family by family</div>
-      <h2>proposed script structure by proof format</h2>
+      <h2>proposed audio treatment by proof format</h2>
       <table>
         <thead>
           <tr>
             <th>family</th>
             <th>default mode</th>
             <th>target length</th>
-            <th>script structure</th>
+            <th>voice posture</th>
+            <th>structure</th>
           </tr>
         </thead>
         <tbody>
@@ -253,35 +257,40 @@ rules:
               <td>Testimonial</td>
               <td>brand narration</td>
               <td>8 to 11 seconds</td>
-              <td>result -&gt; why it matters -&gt; brand proof anchor</td>
+              <td>steady, grounded, lightly warm, not salesy</td>
+              <td>1. name the result or change<br>2. explain why that result matters in real behavior<br>3. close with a brief proof anchor</td>
             </tr>
             
             <tr>
               <td>Story Strip</td>
               <td>brand narration</td>
               <td>10 to 14 seconds</td>
-              <td>before -&gt; shift -&gt; visible after -&gt; brand proof anchor</td>
+              <td>calm, observant, slightly more narrative, still restrained</td>
+              <td>1. name the shift or before-state<br>2. name the more grounded move<br>3. explain why that change is meaningful<br>4. close with a brief proof anchor</td>
             </tr>
             
             <tr>
               <td>Partner Split</td>
               <td>brand narration</td>
               <td>9 to 12 seconds</td>
-              <td>old pattern -&gt; new pattern -&gt; why the change lands better</td>
+              <td>clear, direct, slightly firmer than testimonial</td>
+              <td>1. name the contrast<br>2. explain the better pattern<br>3. say why the shift lands better<br>4. optional brief proof anchor</td>
             </tr>
             
             <tr>
               <td>Stats Grid</td>
               <td>music only by default</td>
               <td>6 to 9 seconds</td>
-              <td>headline on screen -&gt; subtle motion -&gt; optional one-line spoken cap</td>
+              <td>if narrated, one-line cap only</td>
+              <td>1. headline on screen<br>2. subtle motion or punch-in<br>3. optional one-line spoken cap</td>
             </tr>
             
             <tr>
               <td>Stats</td>
               <td>music only by default</td>
-              <td>6 to 9 seconds</td>
-              <td>headline on screen -&gt; subtle motion -&gt; optional one-line spoken cap</td>
+              <td>6 to 8 seconds</td>
+              <td>if narrated, clipped and minimal</td>
+              <td>1. headline on screen<br>2. quick visual hold<br>3. optional one-line spoken cap</td>
             </tr>
             
         </tbody>
@@ -289,9 +298,139 @@ rules:
     </section>
 
     <section class="section">
+      <div class="eyebrow">audio blueprints</div>
+      <h2>the corresponding script systems i suggest</h2>
+      <p>these are the reusable family-level shells i would deploy across the whole 100-item proof lane.</p>
+    </section>
+
+    <section class="blueprints">
+      
+            <article class="blueprint-card">
+              <div class="sample-meta">
+                <span class="tag">testimonial</span>
+                <span class="tag muted-tag">brand narration</span>
+              </div>
+              <h3>testimonial</h3>
+              <p><strong>goal:</strong> compress one visible result into a short trust hit that sounds calm and credible.</p>
+              <p><strong>voice posture:</strong> steady, grounded, lightly warm, not salesy</p>
+              <p><strong>pace:</strong> 145 to 160 wpm</p>
+              <p><strong>template:</strong><br>[headline result].<br>the useful part is the shift underneath it: [behavioral change].<br>real torch method member progress.</p>
+              <div class="panel">
+                <div class="panel-label">design notes</div>
+                <ul>
+                  <li>these should feel like distilled proof, not testimonials performed by an actor.</li><li>the first line needs to track what is plainly visible in the art.</li><li>avoid overclaiming the life change if the image only shows one slice of progress.</li>
+                </ul>
+              </div>
+              <div class="panel">
+                <div class="panel-label">avoid</div>
+                <ul>
+                  <li>first-person delivery</li><li>fake direct quotes</li><li>heavy emotional acting</li>
+                </ul>
+              </div>
+            </article>
+            
+            <article class="blueprint-card">
+              <div class="sample-meta">
+                <span class="tag">story strip</span>
+                <span class="tag muted-tag">brand narration</span>
+              </div>
+              <h3>story strip</h3>
+              <p><strong>goal:</strong> use the implied before-and-after sequence to make progress feel observable.</p>
+              <p><strong>voice posture:</strong> calm, observant, slightly more narrative, still restrained</p>
+              <p><strong>pace:</strong> 140 to 155 wpm</p>
+              <p><strong>template:</strong><br>[name]&#x27;s shift here is simple: [before-state].<br>instead, the move became [better behavior].<br>that is what real progress looks like when it starts showing up in actual situations.<br>real torch method member progress.</p>
+              <div class="panel">
+                <div class="panel-label">design notes</div>
+                <ul>
+                  <li>this family can carry slightly more narration because the image already implies sequence.</li><li>keep the story at the pattern level unless the panel text itself gives concrete detail.</li><li>the value is observability, not melodrama.</li>
+                </ul>
+              </div>
+              <div class="panel">
+                <div class="panel-label">avoid</div>
+                <ul>
+                  <li>invented scene-setting</li><li>sounding like a diary read</li><li>therapy language</li>
+                </ul>
+              </div>
+            </article>
+            
+            <article class="blueprint-card">
+              <div class="sample-meta">
+                <span class="tag">partner split</span>
+                <span class="tag muted-tag">brand narration</span>
+              </div>
+              <h3>partner split</h3>
+              <p><strong>goal:</strong> highlight the contrast between old pattern and better pattern without sounding preachy.</p>
+              <p><strong>voice posture:</strong> clear, direct, slightly firmer than testimonial</p>
+              <p><strong>pace:</strong> 145 to 160 wpm</p>
+              <p><strong>template:</strong><br>the contrast here is the point: [old pattern] versus [new pattern].<br>[new pattern] tends to land better because it reads as calmer and clearer.<br>real torch method member progress.</p>
+              <div class="panel">
+                <div class="panel-label">design notes</div>
+                <ul>
+                  <li>these are contrast reels, so the script should do less work than the image.</li><li>the voice should sharpen the difference, not restate every label on screen.</li><li>keep the explanation practical, not moralistic.</li>
+                </ul>
+              </div>
+              <div class="panel">
+                <div class="panel-label">avoid</div>
+                <ul>
+                  <li>turning it into generic motivation</li><li>loading it with too many adjectives</li><li>making it sound like a lecture</li>
+                </ul>
+              </div>
+            </article>
+            
+            <article class="blueprint-card">
+              <div class="sample-meta">
+                <span class="tag">stats grid</span>
+                <span class="tag muted-tag">music only by default</span>
+              </div>
+              <h3>stats grid</h3>
+              <p><strong>goal:</strong> let the numbers and layout do most of the persuasion.</p>
+              <p><strong>voice posture:</strong> if narrated, one-line cap only</p>
+              <p><strong>pace:</strong> 130 to 145 wpm</p>
+              <p><strong>template:</strong><br>optional line only: [headline].</p>
+              <div class="panel">
+                <div class="panel-label">design notes</div>
+                <ul>
+                  <li>this family is usually stronger with music, movement, and readable text.</li><li>narration can easily clutter a stats asset and slow down comprehension.</li><li>only add voice if the headline needs a single clean emphasis line.</li>
+                </ul>
+              </div>
+              <div class="panel">
+                <div class="panel-label">avoid</div>
+                <ul>
+                  <li>full paragraph narration</li><li>reading every number aloud</li><li>competing with the text density</li>
+                </ul>
+              </div>
+            </article>
+            
+            <article class="blueprint-card">
+              <div class="sample-meta">
+                <span class="tag">stats</span>
+                <span class="tag muted-tag">music only by default</span>
+              </div>
+              <h3>stats</h3>
+              <p><strong>goal:</strong> deliver a fast credibility pulse without slowing the viewer down.</p>
+              <p><strong>voice posture:</strong> if narrated, clipped and minimal</p>
+              <p><strong>pace:</strong> 130 to 145 wpm</p>
+              <p><strong>template:</strong><br>optional line only: [headline].</p>
+              <div class="panel">
+                <div class="panel-label">design notes</div>
+                <ul>
+                  <li>treat these as proof punctuation marks in the feed.</li><li>the best outcome is immediate legibility, not richer storytelling.</li><li>if we add voice, it should feel like a caption read, not a monologue.</li>
+                </ul>
+              </div>
+              <div class="panel">
+                <div class="panel-label">avoid</div>
+                <ul>
+                  <li>long explanation</li><li>multiple claims in one read</li><li>extra filler</li>
+                </ul>
+              </div>
+            </article>
+            
+    </section>
+
+    <section class="section">
       <div class="eyebrow">sample slice</div>
-      <h2>10 representative proof assets</h2>
-      <p>this is the concrete review set for approving the system. if this looks right, i can propagate the same writing logic across the full lane.</p>
+      <h2>10 representative proof assets with audio scripts</h2>
+      <p>this is the concrete review set. if this feels right, i can roll the same logic across the full proof lane and then move to voice selection.</p>
     </section>
 
     <section class="samples">
@@ -306,20 +445,24 @@ rules:
                   <span class="tag muted-tag">proof_01_matt</span>
                 </div>
                 <h3>From isolation to confidence.</h3>
-                <p class="muted">treat these like concise proof summaries, not fake testimonials read in first person.</p>
+                <p class="muted">the visual is a result headline, so the audio should explain the behavioral meaning without overselling.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 8 to 11 seconds<br>
-                  <strong>script structure:</strong> result -&gt; why it matters -&gt; brand proof anchor</p>
+                  <strong>pace:</strong> 145 to 160 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>From isolation to confidence. Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>From isolation to confidence. this is the kind of change we care about: less confusion, more steadiness, and more usable momentum. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>From isolation to confidence. the useful part is the shift underneath it: [behavioral change]. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>From isolation to confidence. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -334,20 +477,24 @@ rules:
                   <span class="tag muted-tag">proof_02_ethan</span>
                 </div>
                 <h3>Dating feels navigable now.</h3>
-                <p class="muted">treat these like concise proof summaries, not fake testimonials read in first person.</p>
+                <p class="muted">the visual is a result headline, so the audio should explain the behavioral meaning without overselling.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 8 to 11 seconds<br>
-                  <strong>script structure:</strong> result -&gt; why it matters -&gt; brand proof anchor</p>
+                  <strong>pace:</strong> 145 to 160 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Dating feels navigable now. Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Dating feels navigable now. this is the kind of change we care about: less confusion, more steadiness, and more usable momentum. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>Dating feels navigable now. the useful part is the shift underneath it: [behavioral change]. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>Dating feels navigable now. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -362,20 +509,24 @@ rules:
                   <span class="tag muted-tag">proof_03_ryan</span>
                 </div>
                 <h3>Clear guidance beats vague motivation.</h3>
-                <p class="muted">treat these like concise proof summaries, not fake testimonials read in first person.</p>
+                <p class="muted">the visual is a result headline, so the audio should explain the behavioral meaning without overselling.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 8 to 11 seconds<br>
-                  <strong>script structure:</strong> result -&gt; why it matters -&gt; brand proof anchor</p>
+                  <strong>pace:</strong> 145 to 160 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Clear guidance beats vague motivation. Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Clear guidance beats vague motivation. this is the kind of change we care about: less confusion, more steadiness, and more usable momentum. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>Clear guidance beats vague motivation. the useful part is the shift underneath it: [behavioral change]. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>Clear guidance beats vague motivation. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -390,20 +541,24 @@ rules:
                   <span class="tag muted-tag">proof_51_story_matt</span>
                 </div>
                 <h3>Story Strip / Matt</h3>
-                <p class="muted">these are the clearest cases for narrated slideshow reels because the image format already implies progression.</p>
+                <p class="muted">the visual already implies sequence, so the audio should simply guide the viewer through the shift.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 10 to 14 seconds<br>
-                  <strong>script structure:</strong> before -&gt; shift -&gt; visible after -&gt; brand proof anchor</p>
+                  <strong>pace:</strong> 140 to 155 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Story Strip / Matt Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Matt&#x27;s shift here is simple: less guessing, more grounded follow-through. this is what progress looks like when the change becomes visible in real situations. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>[name]&#x27;s shift here is simple: [before-state]. instead, the move became [better behavior]. that is what real progress looks like when it starts showing up in actual situations. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>Matt&#x27;s shift here is simple: less guessing, more grounded follow-through. that is what progress looks like when it starts showing up in actual situations. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -418,20 +573,24 @@ rules:
                   <span class="tag muted-tag">proof_52_story_ethan</span>
                 </div>
                 <h3>Story Strip / Ethan</h3>
-                <p class="muted">these are the clearest cases for narrated slideshow reels because the image format already implies progression.</p>
+                <p class="muted">the visual already implies sequence, so the audio should simply guide the viewer through the shift.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 10 to 14 seconds<br>
-                  <strong>script structure:</strong> before -&gt; shift -&gt; visible after -&gt; brand proof anchor</p>
+                  <strong>pace:</strong> 140 to 155 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Story Strip / Ethan Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Ethan&#x27;s shift here is simple: less guessing, more grounded follow-through. this is what progress looks like when the change becomes visible in real situations. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>[name]&#x27;s shift here is simple: [before-state]. instead, the move became [better behavior]. that is what real progress looks like when it starts showing up in actual situations. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>Ethan&#x27;s shift here is simple: less guessing, more grounded follow-through. that is what progress looks like when it starts showing up in actual situations. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -446,20 +605,24 @@ rules:
                   <span class="tag muted-tag">proof_59_partner_charlie</span>
                 </div>
                 <h3>Partner Split / Charlie</h3>
-                <p class="muted">focus on the contrast, not on drama. the split layout already does half the work visually.</p>
+                <p class="muted">the visual is a contrast machine, so the audio should sharpen the contrast and get out of the way.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 9 to 12 seconds<br>
-                  <strong>script structure:</strong> old pattern -&gt; new pattern -&gt; why the change lands better</p>
+                  <strong>pace:</strong> 145 to 160 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Partner Split / Charlie Proof from men using Torch Method to show up calmer, clearer, and more direct. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Charlie&#x27;s before-and-after here matters because the shift is behavioral, not cosmetic. calmer, clearer, and more direct tends to land better than trying harder. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>the contrast here is the point: [old pattern] versus [new pattern]. [new pattern] tends to land better because it reads as calmer and clearer. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>the contrast here is the point: less second-guessing, more calm directness. that kind of shift tends to land better because it reads clearer and steadier. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -474,20 +637,24 @@ rules:
                   <span class="tag muted-tag">proof_60_partner_matt</span>
                 </div>
                 <h3>Partner Split / Matt</h3>
-                <p class="muted">focus on the contrast, not on drama. the split layout already does half the work visually.</p>
+                <p class="muted">the visual is a contrast machine, so the audio should sharpen the contrast and get out of the way.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> brand narration<br>
                   <strong>target length:</strong> 9 to 12 seconds<br>
-                  <strong>script structure:</strong> old pattern -&gt; new pattern -&gt; why the change lands better</p>
+                  <strong>pace:</strong> 145 to 160 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Partner Split / Matt Proof from men using Torch Method to show up calmer, clearer, and more direct. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>Matt&#x27;s before-and-after here matters because the shift is behavioral, not cosmetic. calmer, clearer, and more direct tends to land better than trying harder. real torch method member progress.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>the contrast here is the point: [old pattern] versus [new pattern]. [new pattern] tends to land better because it reads as calmer and clearer. real torch method member progress.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>the contrast here is the point: less second-guessing, more calm directness. that kind of shift tends to land better because it reads clearer and steadier. real torch method member progress.</p>
                 </div>
               </div>
             </article>
@@ -502,20 +669,24 @@ rules:
                   <span class="tag muted-tag">proof_67_stats_core</span>
                 </div>
                 <h3>Real proof beats empty hype.</h3>
-                <p class="muted">stats-led proof should usually stay text-first. narration is optional and should stay extremely light.</p>
+                <p class="muted">the visual is already dense with proof, so audio should be optional and minimal.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> music only by default<br>
                   <strong>target length:</strong> 6 to 9 seconds<br>
-                  <strong>script structure:</strong> headline on screen -&gt; subtle motion -&gt; optional one-line spoken cap</p>
+                  <strong>pace:</strong> 130 to 145 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Real proof beats empty hype. Real proof beats hype when the system is clear and repeatable. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>music-only is my default recommendation for this format. if we narrate at all, keep it to one clean line: Real proof beats empty hype.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
                 </div>
               </div>
             </article>
@@ -530,20 +701,24 @@ rules:
                   <span class="tag muted-tag">proof_68_stats_completion</span>
                 </div>
                 <h3>The system works because men actually finish it.</h3>
-                <p class="muted">stats-led proof should usually stay text-first. narration is optional and should stay extremely light.</p>
+                <p class="muted">the visual is already dense with proof, so audio should be optional and minimal.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> music only by default<br>
                   <strong>target length:</strong> 6 to 9 seconds<br>
-                  <strong>script structure:</strong> headline on screen -&gt; subtle motion -&gt; optional one-line spoken cap</p>
+                  <strong>pace:</strong> 130 to 145 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>The system works because men actually finish it. Real proof beats hype when the system is clear and repeatable. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>music-only is my default recommendation for this format. if we narrate at all, keep it to one clean line: The system works because men actually finish it.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>optional one-line cap only: The system works because men actually finish it.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>optional one-line cap only: The system works because men actually finish it.</p>
                 </div>
               </div>
             </article>
@@ -558,20 +733,24 @@ rules:
                   <span class="tag muted-tag">proof_05_stats</span>
                 </div>
                 <h3>Real proof beats empty hype.</h3>
-                <p class="muted">stats-led proof should usually stay text-first. narration is optional and should stay extremely light.</p>
+                <p class="muted">the visual is already dense with proof, so audio should be optional and minimal.</p>
                 <div class="panel">
-                  <div class="panel-label">recommended reel treatment</div>
+                  <div class="panel-label">recommended audio treatment</div>
                   <p><strong>mode:</strong> music only by default<br>
-                  <strong>target length:</strong> 6 to 9 seconds<br>
-                  <strong>script structure:</strong> headline on screen -&gt; subtle motion -&gt; optional one-line spoken cap</p>
+                  <strong>target length:</strong> 6 to 8 seconds<br>
+                  <strong>pace:</strong> 130 to 145 wpm</p>
                 </div>
                 <div class="panel">
                   <div class="panel-label">source caption</div>
                   <p>Real proof beats empty hype. Real member progress from Torch Method. #torchmethod #datingadvice #socialskills #mensgrowth</p>
                 </div>
                 <div class="panel">
-                  <div class="panel-label">sample script draft</div>
-                  <p>music-only is my default recommendation for this format. if we narrate at all, keep it to one clean line: Real proof beats empty hype.</p>
+                  <div class="panel-label">family shell</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
+                </div>
+                <div class="panel">
+                  <div class="panel-label">sample audio script</div>
+                  <p>optional one-line cap only: Real proof beats empty hype.</p>
                 </div>
               </div>
             </article>
@@ -583,8 +762,8 @@ rules:
       <h2>what to send back</h2>
       <ul>
         <li>approve or revise the master prompt</li>
-        <li>approve or revise the family rules: testimonial, story strip, partner split, stats</li>
-        <li>call out any sample ids whose draft script feels wrong</li>
+        <li>approve or revise the audio blueprint for each family</li>
+        <li>call out any sample ids whose script feels wrong</li>
         <li>say whether stats should stay music-only by default</li>
       </ul>
     </section>

@@ -1,0 +1,214 @@
+{
+  "master_prompt": "turn this proof asset into a short instagram reel script.\n\nrules:\n- speak in third-person brand voice, not in the member's voice\n- do not pretend to be the client or invent diary details\n- keep the script concrete, grounded, and low-hype\n- if the asset is stats-led, default to music-only and text motion instead of narration\n- if the asset is testimonial, story strip, or partner split, keep it to 2-4 short sentences\n- sentence 1 should name the visible result or contrast\n- sentence 2 should explain the behavioral shift or why it matters\n- optional sentence 3 can anchor it as real member progress from torch method\n- never use character acting, fake quotes, or claims that are not visible in the asset",
+  "families": {
+    "Testimonial": {
+      "default_mode": "brand narration",
+      "goal": "compress one visible result into a short trust hit that sounds calm and credible.",
+      "voice_posture": "steady, grounded, lightly warm, not salesy",
+      "pace": "145 to 160 wpm",
+      "length": "8 to 11 seconds",
+      "structure": [
+        "name the result or change",
+        "explain why that result matters in real behavior",
+        "close with a brief proof anchor"
+      ],
+      "template": [
+        "[headline result].",
+        "the useful part is the shift underneath it: [behavioral change].",
+        "real torch method member progress."
+      ],
+      "design_notes": [
+        "these should feel like distilled proof, not testimonials performed by an actor.",
+        "the first line needs to track what is plainly visible in the art.",
+        "avoid overclaiming the life change if the image only shows one slice of progress."
+      ],
+      "avoid": [
+        "first-person delivery",
+        "fake direct quotes",
+        "heavy emotional acting"
+      ],
+      "shell": "[headline result] the useful part is the shift underneath it: [behavioral change]. real torch method member progress.",
+      "sample_items": [
+        {
+          "proof_id": "proof_01_matt",
+          "title": "From isolation to confidence.",
+          "sample_script": "From isolation to confidence. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.",
+          "design_rationale": "the visual is a result headline, so the audio should explain the behavioral meaning without overselling."
+        },
+        {
+          "proof_id": "proof_02_ethan",
+          "title": "Dating feels navigable now.",
+          "sample_script": "Dating feels navigable now. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.",
+          "design_rationale": "the visual is a result headline, so the audio should explain the behavioral meaning without overselling."
+        },
+        {
+          "proof_id": "proof_03_ryan",
+          "title": "Clear guidance beats vague motivation.",
+          "sample_script": "Clear guidance beats vague motivation. the useful part is not just the headline. it is the steadier behavior sitting underneath that result. real torch method member progress.",
+          "design_rationale": "the visual is a result headline, so the audio should explain the behavioral meaning without overselling."
+        }
+      ]
+    },
+    "Story Strip": {
+      "default_mode": "brand narration",
+      "goal": "use the implied before-and-after sequence to make progress feel observable.",
+      "voice_posture": "calm, observant, slightly more narrative, still restrained",
+      "pace": "140 to 155 wpm",
+      "length": "10 to 14 seconds",
+      "structure": [
+        "name the shift or before-state",
+        "name the more grounded move",
+        "explain why that change is meaningful",
+        "close with a brief proof anchor"
+      ],
+      "template": [
+        "[name]'s shift here is simple: [before-state].",
+        "instead, the move became [better behavior].",
+        "that is what real progress looks like when it starts showing up in actual situations.",
+        "real torch method member progress."
+      ],
+      "design_notes": [
+        "this family can carry slightly more narration because the image already implies sequence.",
+        "keep the story at the pattern level unless the panel text itself gives concrete detail.",
+        "the value is observability, not melodrama."
+      ],
+      "avoid": [
+        "invented scene-setting",
+        "sounding like a diary read",
+        "therapy language"
+      ],
+      "shell": "[name]'s shift here is simple: [before-state]. instead, the move became [better behavior]. that is what real progress looks like when it starts showing up in actual situations. real torch method member progress.",
+      "sample_items": [
+        {
+          "proof_id": "proof_51_story_matt",
+          "title": "Story Strip / Matt",
+          "sample_script": "Matt's shift here is simple: less guessing, more grounded follow-through. that is what progress looks like when it starts showing up in actual situations. real torch method member progress.",
+          "design_rationale": "the visual already implies sequence, so the audio should simply guide the viewer through the shift."
+        },
+        {
+          "proof_id": "proof_52_story_ethan",
+          "title": "Story Strip / Ethan",
+          "sample_script": "Ethan's shift here is simple: less guessing, more grounded follow-through. that is what progress looks like when it starts showing up in actual situations. real torch method member progress.",
+          "design_rationale": "the visual already implies sequence, so the audio should simply guide the viewer through the shift."
+        }
+      ]
+    },
+    "Partner Split": {
+      "default_mode": "brand narration",
+      "goal": "highlight the contrast between old pattern and better pattern without sounding preachy.",
+      "voice_posture": "clear, direct, slightly firmer than testimonial",
+      "pace": "145 to 160 wpm",
+      "length": "9 to 12 seconds",
+      "structure": [
+        "name the contrast",
+        "explain the better pattern",
+        "say why the shift lands better",
+        "optional brief proof anchor"
+      ],
+      "template": [
+        "the contrast here is the point: [old pattern] versus [new pattern].",
+        "[new pattern] tends to land better because it reads as calmer and clearer.",
+        "real torch method member progress."
+      ],
+      "design_notes": [
+        "these are contrast reels, so the script should do less work than the image.",
+        "the voice should sharpen the difference, not restate every label on screen.",
+        "keep the explanation practical, not moralistic."
+      ],
+      "avoid": [
+        "turning it into generic motivation",
+        "loading it with too many adjectives",
+        "making it sound like a lecture"
+      ],
+      "shell": "the contrast here is the point: [old pattern] versus [new pattern]. [new pattern] tends to land better because it reads as calmer and clearer. real torch method member progress.",
+      "sample_items": [
+        {
+          "proof_id": "proof_59_partner_charlie",
+          "title": "Partner Split / Charlie",
+          "sample_script": "the contrast here is the point: less second-guessing, more calm directness. that kind of shift tends to land better because it reads clearer and steadier. real torch method member progress.",
+          "design_rationale": "the visual is a contrast machine, so the audio should sharpen the contrast and get out of the way."
+        },
+        {
+          "proof_id": "proof_60_partner_matt",
+          "title": "Partner Split / Matt",
+          "sample_script": "the contrast here is the point: less second-guessing, more calm directness. that kind of shift tends to land better because it reads clearer and steadier. real torch method member progress.",
+          "design_rationale": "the visual is a contrast machine, so the audio should sharpen the contrast and get out of the way."
+        }
+      ]
+    },
+    "Stats Grid": {
+      "default_mode": "music only by default",
+      "goal": "let the numbers and layout do most of the persuasion.",
+      "voice_posture": "if narrated, one-line cap only",
+      "pace": "130 to 145 wpm",
+      "length": "6 to 9 seconds",
+      "structure": [
+        "headline on screen",
+        "subtle motion or punch-in",
+        "optional one-line spoken cap"
+      ],
+      "template": [
+        "optional line only: [headline]."
+      ],
+      "design_notes": [
+        "this family is usually stronger with music, movement, and readable text.",
+        "narration can easily clutter a stats asset and slow down comprehension.",
+        "only add voice if the headline needs a single clean emphasis line."
+      ],
+      "avoid": [
+        "full paragraph narration",
+        "reading every number aloud",
+        "competing with the text density"
+      ],
+      "shell": "optional one-line cap only: [headline result]",
+      "sample_items": [
+        {
+          "proof_id": "proof_67_stats_core",
+          "title": "Real proof beats empty hype.",
+          "sample_script": "optional one-line cap only: Real proof beats empty hype.",
+          "design_rationale": "the visual is already dense with proof, so audio should be optional and minimal."
+        },
+        {
+          "proof_id": "proof_68_stats_completion",
+          "title": "The system works because men actually finish it.",
+          "sample_script": "optional one-line cap only: The system works because men actually finish it.",
+          "design_rationale": "the visual is already dense with proof, so audio should be optional and minimal."
+        }
+      ]
+    },
+    "Stats": {
+      "default_mode": "music only by default",
+      "goal": "deliver a fast credibility pulse without slowing the viewer down.",
+      "voice_posture": "if narrated, clipped and minimal",
+      "pace": "130 to 145 wpm",
+      "length": "6 to 8 seconds",
+      "structure": [
+        "headline on screen",
+        "quick visual hold",
+        "optional one-line spoken cap"
+      ],
+      "template": [
+        "optional line only: [headline]."
+      ],
+      "design_notes": [
+        "treat these as proof punctuation marks in the feed.",
+        "the best outcome is immediate legibility, not richer storytelling.",
+        "if we add voice, it should feel like a caption read, not a monologue."
+      ],
+      "avoid": [
+        "long explanation",
+        "multiple claims in one read",
+        "extra filler"
+      ],
+      "shell": "optional one-line cap only: [headline result]",
+      "sample_items": [
+        {
+          "proof_id": "proof_05_stats",
+          "title": "Real proof beats empty hype.",
+          "sample_script": "optional one-line cap only: Real proof beats empty hype.",
+          "design_rationale": "the visual is already dense with proof, so audio should be optional and minimal."
+        }
+      ]
+    }
+  }
+}

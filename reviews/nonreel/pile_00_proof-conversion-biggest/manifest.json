@@ -25,5 +25,6 @@
     "proof_67_stats_core",
     "proof_68_stats_completion",
     "proof_05_stats"
-  ]
+  ],
+  "audio_script_system_file": "audio_script_system.json"
 }
