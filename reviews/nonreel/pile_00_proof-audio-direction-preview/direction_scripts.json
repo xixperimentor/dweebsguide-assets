@@ -3,13 +3,13 @@
     "all narration stays in third-person brand voice.",
     "every proof family gets audio, including stats assets.",
     "use standard onyx as the default voice for this preview pack.",
-    "target denser scripts that mostly land around 60 to 90 seconds instead of the earlier shorter reads.",
-    "the voice should explain why the proof matters, not just read the card text back.",
+    "keep scripts consumer-facing and target most reads to land around 30 to 60 seconds, with most examples in this pack closer to 35 to 50 seconds.",
+    "the voice should explain why the proof matters, not just read the screen text back.",
     "no fake member impressions, no diary acting, and no invented scene detail."
   ],
   "family_direction": {
     "Testimonial": {
-      "duration_target": "60 to 80 seconds",
+      "duration_target": "35 to 50 seconds",
       "pace": "145 to 155 wpm",
       "structure": [
         "name the visible result",
@@ -17,21 +17,21 @@
         "say why that matters in real dating behavior",
         "close with a brief brand-proof anchor"
       ],
-      "direction": "these should sound like calm proof summaries with enough room to unpack the result, the underlying shift, and why the viewer should care."
+      "direction": "these should sound like calm proof summaries. the voice is there to translate the result into something believable and repeatable."
     },
     "Story Strip": {
-      "duration_target": "65 to 85 seconds",
+      "duration_target": "35 to 50 seconds",
       "pace": "140 to 150 wpm",
       "structure": [
-        "frame the card as observable progress",
+        "frame the progress as observable change",
         "describe the shift in behavior at a pattern level",
         "say why that sequence matters",
         "close with a brief brand-proof anchor"
       ],
-      "direction": "the strip already carries sequence visually, so the narration should guide the shift in a fuller way without turning into a fictional diary scene."
+      "direction": "the strip already carries sequence visually, so the narration should guide the shift without turning into a full fictional story."
     },
     "Partner Split": {
-      "duration_target": "55 to 75 seconds",
+      "duration_target": "35 to 45 seconds",
       "pace": "145 to 155 wpm",
       "structure": [
         "name the contrast",
@@ -39,10 +39,10 @@
         "connect the contrast to calmer, clearer behavior",
         "close with a brief brand-proof anchor"
       ],
-      "direction": "these are contrast assets. the script should sharpen the before-versus-after point, explain why the stronger pattern matters, and then stop."
+      "direction": "these are contrast assets. the script should sharpen the before-versus-after point and then stop."
     },
     "Stats Grid": {
-      "duration_target": "55 to 80 seconds",
+      "duration_target": "30 to 45 seconds",
       "pace": "145 to 155 wpm",
       "structure": [
         "name the headline",
@@ -50,10 +50,10 @@
         "connect the numbers to why the system is trustworthy",
         "close with a practical takeaway"
       ],
-      "direction": "stats still get narration, and now the voice should use the extra time to interpret the numbers rather than just announce them."
+      "direction": "stats still get narration, but the voice should support the numbers rather than compete with them."
     },
     "Stats": {
-      "duration_target": "50 to 70 seconds",
+      "duration_target": "30 to 45 seconds",
       "pace": "145 to 155 wpm",
       "structure": [
         "name the claim or headline",
@@ -61,7 +61,7 @@
         "connect it to the type of man this system is for",
         "close with a simple proof takeaway"
       ],
-      "direction": "single stats cards should still be narrated, but with enough substance to justify staying on a simpler visual for longer."
+      "direction": "single stats cards should still be narrated, but with enough substance to justify the screen time."
     }
   },
   "items": [
@@ -71,9 +71,9 @@
       "family": "Testimonial",
       "public_slug": "proof_03_ryan.png",
       "why_chosen": "clean testimonial example where the headline is practical, not flashy.",
-      "script": "this card works because the result is practical instead of theatrical. the visible change is that this member moved away from vague motivation and toward guidance he could actually use when dating felt uncertain. that matters because most men do not need another burst of confidence content. they need a framework that still helps when nerves, ambiguity, and mixed signals show up in real time. the proof here is not just that the headline sounds good. it is that the result points to cleaner decisions, steadier follow-through, and progress that can actually repeat. for the viewer, that should register as something more serious than inspiration. it suggests a method that still holds up when the mood is off, the reply is slow, or the next move is not obvious. that is why a card like this deserves more than a quick read. the narration should make the practical value explicit: this is proof of usable structure, not just proof of feeling better for a day.",
-      "word_count": 165,
-      "estimated_seconds": 66
+      "script": "most men do not need another burst of motivation. they need guidance that still works when dating feels uncertain, replies slow down, or the next move is not obvious. that is why a result like this matters. it points to cleaner decisions, steadier follow-through, and less wasted energy. torch method is not trying to make men sound more confident for a day. it is trying to make their behavior more usable in real situations. when the structure is right, progress becomes calmer, clearer, and much easier to repeat.",
+      "word_count": 88,
+      "estimated_seconds": 35
     },
     {
       "proof_id": "proof_04_charlie",
@@ -81,9 +81,9 @@
       "family": "Testimonial",
       "public_slug": "proof_04_charlie.png",
       "why_chosen": "testimonial example about visible change, useful for how we talk about outside-the-system proof.",
-      "script": "what makes this proof card strong is that the shift is visible beyond the member himself. the headline points to change that other people can feel in the relationship, which usually means the progress moved past theory and into behavior. a result like that suggests better regulation, clearer communication, and more grounded presence over time. that is exactly the kind of proof that matters more than hype, because it implies the change became noticeable in real interactions. this is the lane torch method wants to live in: practical growth that people around the member can actually recognize. that matters because a lot of advice content stays trapped inside the person consuming it. the stronger claim here is that the improvement started shaping the relationship itself. when the narration slows down enough to say that clearly, the asset becomes more than a compliment card. it becomes evidence that the member\u2019s behavior got stable enough for other people to feel the difference too.",
-      "word_count": 161,
-      "estimated_seconds": 64
+      "script": "one of the clearest signs of real progress is when the change is visible to other people, not just felt internally. that usually means the growth moved past theory and into behavior. better regulation, clearer communication, and a steadier presence start affecting the relationship itself. that is the standard torch method is aiming at. not hype, not performance, and not temporary confidence spikes. the goal is progress that shows up in real interactions and becomes noticeable over time. that is the kind of result people can trust because it is easier to feel than fake.",
+      "word_count": 95,
+      "estimated_seconds": 38
     },
     {
       "proof_id": "proof_09_ethan_intention",
@@ -91,9 +91,9 @@
       "family": "Testimonial",
       "public_slug": "proof_09_ethan_intention.png",
       "why_chosen": "testimonial example where the script can turn a short headline into a fuller behavioral explanation.",
-      "script": "the useful shift on this card is not just that this member got calmer. it is that his responses stopped being driven by panic and started being driven by intention. that usually changes everything, because reactive behavior is what makes so many men look rushed, approval-seeking, or hard to trust. when the system helps a member slow down enough to choose a better move, the result is not only better texting or dating outcomes. the deeper result is that his behavior becomes more deliberate, more self-respecting, and easier for another person to receive. that is the part worth lingering on in the audio. the viewer should hear that intention is not just a mindset word here. it means a person who is no longer letting anxiety write the whole script for him. if the narration lands, the takeaway becomes clear: better outcomes start when behavior stops being organized around panic and starts being organized around steadier choices.",
-      "word_count": 157,
-      "estimated_seconds": 63
+      "script": "dating usually gets worse when panic is making the decisions. rushed replies, approval-seeking, and confused pacing all come from the same place. what matters here is the shift from reacting on impulse to responding with intention. when that changes, a man starts looking calmer, more self-respecting, and easier to trust. torch method is built around that kind of shift. better outcomes are useful, but the deeper win is steadier behavior. once anxiety stops running the whole show, clearer choices start showing up everywhere else too.",
+      "word_count": 85,
+      "estimated_seconds": 34
     },
     {
       "proof_id": "proof_51_story_matt",
@@ -101,9 +101,9 @@
       "family": "Story Strip",
       "public_slug": "proof_51_story_matt.png",
       "why_chosen": "story strip example for an observable shift without inventing details.",
-      "script": "this story strip is useful because it makes progress feel observable instead of abstract. the viewer does not need a fake testimonial performance to understand the point. the card itself already suggests a member who became less reactive and more grounded across actual situations. that is what the narration should underline. the value here is not that this member suddenly turned into a different person overnight. the value is that the behavior looks calmer, more stable, and more repeatable from panel to panel. that is the kind of shift people can trust because it looks lived, not staged. with a longer read, the voice can make one more useful point: observable progress is usually what separates real system-based change from a temporary confidence spike. the viewer should feel that this strip is showing a pattern becoming more reliable, not just a single flattering snapshot. that makes the proof more durable and more believable.",
-      "word_count": 153,
-      "estimated_seconds": 61
+      "script": "real progress does not need to look dramatic to be convincing. the strongest change is usually simpler than that: less reactivity, more steadiness, and better behavior across ordinary moments. that is what makes results like this believable. the improvement looks lived-in, not staged for a single highlight. torch method works best when it helps men become more grounded in situations that used to throw them off. over time, that creates progress that feels calmer, more stable, and much easier to trust. repetition matters because a reliable pattern says more than one impressive moment ever can.",
+      "word_count": 95,
+      "estimated_seconds": 38
     },
     {
       "proof_id": "proof_53_story_ryan",
@@ -111,9 +111,9 @@
       "family": "Story Strip",
       "public_slug": "proof_53_story_ryan.png",
       "why_chosen": "story strip example with another member so the family does not feel one-note.",
-      "script": "for a card like this, the narration should treat the sequence as proof of process. the point is that the member did not just collect one good moment and call it transformation. the strip suggests that his behavior started organizing itself in a better direction across real interactions. that matters because dating progress becomes believable when it looks like a pattern instead of a lucky spike. the strongest read of this asset is that the system helped this member respond with more clarity, more steadiness, and less wasted motion. that is exactly what a good story-style proof card should communicate. the extra audio time helps because it lets the script explain why pattern change is more important than one impressive moment. what the viewer should hear is that better dating behavior becomes visible when confusion drops, pacing improves, and actions start looking more intentional across more than one beat.",
-      "word_count": 149,
-      "estimated_seconds": 60
+      "script": "one good moment does not prove very much. what people trust is a pattern. when behavior starts showing more clarity, steadiness, and less wasted motion across real interactions, the progress becomes easier to believe. that is why this kind of result matters. torch method is not chasing lucky spikes or short-term confidence highs. it is trying to help men build responses that stay solid under pressure and hold up over time. when confusion drops and pacing improves, better outcomes stop looking accidental and start looking earned.",
+      "word_count": 86,
+      "estimated_seconds": 34
     },
     {
       "proof_id": "proof_56_story_rahul",
@@ -121,9 +121,9 @@
       "family": "Story Strip",
       "public_slug": "proof_56_story_rahul.png",
       "why_chosen": "story strip example to test whether the narrative pattern still holds on neighboring assets.",
-      "script": "this is another good example of why story strips can carry longer audio than the headline cards. the visual already implies movement, so the narration can explain what that movement means without inventing extra drama. the safe interpretation here is that the member became more grounded in how he moved through real moments, and that those moments started looking more coherent over time. that is valuable proof because viewers can imagine the change happening step by step, not as some magic personality swap. when this format works, it turns proof into something the audience can actually follow and believe. the added length should be used to make that credibility point clearer. this is not about glamorizing the member. it is about showing that progress became observable in sequence, which usually means the underlying behavior got more stable and less chaotic.",
-      "word_count": 140,
-      "estimated_seconds": 56
+      "script": "lasting change usually becomes visible step by step. it shows up in how a man moves through ordinary situations, how coherent his decisions feel, and how much less chaotic his behavior becomes over time. that is why results like this carry weight. they do not rely on drama. they suggest that the underlying pattern got stronger. torch method is meant to make progress followable and repeatable, not mysterious. when the structure is working, men stop looking scattered and start looking more grounded, more intentional, and much easier to trust in real life.",
+      "word_count": 92,
+      "estimated_seconds": 37
     },
     {
       "proof_id": "proof_59_partner_charlie",
@@ -131,9 +131,9 @@
       "family": "Partner Split",
       "public_slug": "proof_59_partner_charlie.png",
       "why_chosen": "partner split example for the core before-versus-after contrast.",
-      "script": "the reason this partner split works is that the contrast does most of the persuasion. the stronger side of the card usually points toward behavior that feels calmer, clearer, and easier to trust. that matters because a lot of dating advice stays too abstract about what change should actually look like. this format gives the viewer a cleaner comparison. it makes the old pattern feel more obviously costly, and it makes the better pattern feel more usable. the narration should simply sharpen that contrast and remind the viewer that this is proof of behavioral change, not just branding. with a fuller read, the voice can also explain why the better side tends to land well: it usually carries less pressure, less performative force, and more clarity in how the member shows up. that explanation is what makes the contrast educational instead of decorative.",
-      "word_count": 143,
-      "estimated_seconds": 57
+      "script": "the difference between weak behavior and strong behavior is usually easier to feel than explain. the better pattern tends to come with less pressure, more clarity, and a steadier presence that feels easier to trust. that is why contrast matters. it shows men what better behavior actually looks like instead of leaving the lesson abstract. torch method is trying to replace confusion and performance with calmer, clearer decisions. when that shift happens, interactions feel cleaner, and progress becomes much more usable in real dating situations.",
+      "word_count": 85,
+      "estimated_seconds": 34
     },
     {
       "proof_id": "proof_61_partner_ethan",
@@ -141,9 +141,9 @@
       "family": "Partner Split",
       "public_slug": "proof_61_partner_ethan.png",
       "why_chosen": "partner split example to make sure the family shell still works when the face/name changes.",
-      "script": "a contrast asset like this is strongest when the narration respects how much the image is already doing. the voice does not need to over-explain every label. it just needs to make the takeaway unmistakable. the stronger pattern on a card like this usually reads as less frantic, less approval-seeking, and more grounded in self-respect. that is why the before-and-after format matters. it shows that the member is not trying harder in a vague way. he is behaving differently in a way another person can actually feel. that is the kind of proof that carries weight in the feed. the added narration time should not turn this into a lecture. it should just help the viewer understand why the stronger pattern is stronger: it reduces friction, lowers anxiety in the interaction, and makes the member feel more solid without needing to push.",
-      "word_count": 142,
-      "estimated_seconds": 57
+      "script": "trying harder is not the same as behaving better. the stronger pattern is usually the one that feels less frantic, less approval-seeking, and more grounded in self-respect. that difference matters because other people can feel it immediately. clearer pacing, lower pressure, and steadier communication make a man easier to trust without making him seem passive. that is the kind of change torch method is built to create. better behavior should not look like more force. it should look like more stability, more clarity, and far less friction.",
+      "word_count": 87,
+      "estimated_seconds": 35
     },
     {
       "proof_id": "proof_64_partner_tariq",
@@ -151,9 +151,9 @@
       "family": "Partner Split",
       "public_slug": "proof_64_partner_tariq.png",
       "why_chosen": "partner split example to test repetition risk across the family.",
-      "script": "this partner split should be narrated as evidence of contrast, not as a mini lecture. the point is that the viewer can see a more stable pattern replacing a weaker one. when that is explained well, the asset becomes more than a motivational card. it becomes a practical example of what better behavior actually looks like. that is why this family can support spoken audio even without a diary-style story. the voice is there to tell the viewer what the contrast means: less confusion, less pressure, and a version of directness that feels stronger because it is calmer. what the longer read adds is a clearer bridge from visual contrast to usable lesson. the audience should not just think one side looks better. they should understand that the better side is showing a more trustworthy pattern of behavior.",
-      "word_count": 138,
-      "estimated_seconds": 55
+      "script": "better behavior is not just about saying the right thing. it is about replacing a weaker pattern with one that feels calmer, clearer, and more solid from the outside. that is why this kind of contrast is useful. it turns vague advice into something people can actually recognize in real life. torch method is aiming for that kind of shift: less confusion, less pressure, and a version of directness that feels stronger because it is more grounded. when that change lands, better outcomes stop depending on luck and start coming from better decisions.",
+      "word_count": 93,
+      "estimated_seconds": 37
     },
     {
       "proof_id": "proof_67_stats_core",
@@ -161,9 +161,9 @@
       "family": "Stats Grid",
       "public_slug": "proof_67_stats_core.png",
       "why_chosen": "stats grid example for the broadest proof headline in the lane.",
-      "script": "this kind of stats grid should still have narration, but the narration needs to serve the headline instead of fighting the layout. the core claim here is that real proof beats empty hype, and the job of the voice is to explain why that is a serious standard, not just a catchy line. numbers matter because they tell the viewer the system is being judged by repeatable outcomes, not by confidence theater. when a brand can show structure, reps, and visible follow-through, it starts sounding more credible to analytical people who are done guessing. that is what this family should make legible. the extra length should let the voice slow down enough to connect the numbers to trust. the point is not simply that data exists. the point is that the existence of trackable outcomes suggests the method can be evaluated, repeated, and taken seriously.",
-      "word_count": 145,
-      "estimated_seconds": 58
+      "script": "real proof matters because hype is cheap. numbers start becoming useful when they point to repeatable outcomes, visible follow-through, and a method that can actually be evaluated. that is what makes this kind of result important. torch method is not asking men to trust confidence theater or motivational noise. it is trying to show that progress can be structured, tracked, and taken seriously. for analytical people, that difference matters. when a system can produce measurable movement, it becomes easier to believe that the results are built on process instead of wishful thinking.",
+      "word_count": 92,
+      "estimated_seconds": 37
     },
     {
       "proof_id": "proof_69_stats_progress",
@@ -171,9 +171,9 @@
       "family": "Stats Grid",
       "public_slug": "proof_69_stats_progress.png",
       "why_chosen": "stats grid example that leans more into structure and repeatability.",
-      "script": "this card points to structured progress, and that is exactly what the narration should unpack. the value of a grid like this is not that it throws information at the viewer. the value is that it suggests a system with measurable movement instead of vague inspiration. for the right audience, that distinction matters a lot. the viewer should come away feeling that torch method is built to produce trackable change through repetition, structure, and better decision-making. that is why the voice should not just read the headline. it should translate the headline into a trust signal. in a longer version, the narration can also make explicit that structured progress matters because it reduces guessing. it gives the viewer a sense that improvement is being organized, measured, and reinforced instead of left to random bursts of motivation.",
-      "word_count": 136,
-      "estimated_seconds": 54
+      "script": "structured progress matters because it reduces guessing. instead of relying on random bursts of motivation, men can start building change through repetition, better decisions, and a clearer framework. that is why measurable movement is such a strong signal. it suggests the work is being organized, reinforced, and made more reliable over time. torch method is built for people who want evidence that progress is real, not just emotionally convincing. when improvement becomes trackable, it stops feeling vague and starts feeling like something that can actually be repeated.",
+      "word_count": 87,
+      "estimated_seconds": 35
     },
     {
       "proof_id": "proof_14_stats_members",
@@ -181,9 +181,9 @@
       "family": "Stats",
       "public_slug": "proof_14_stats_members.png",
       "why_chosen": "single stats example to prove that even the simpler stats cards can still justify narrated treatment.",
-      "script": "even a simpler stats card like this should still carry narration if the goal is a fuller reel. the useful point here is that the system is not being presented like a vague side project with no real weight behind it. this asset suggests scale, seriousness, and enough structure for the viewer to treat the offer like an actual method rather than motivational content. that matters for the kind of man who wants evidence before he buys into anything. the narration should make that explicit: this is meant to feel like a real operating system for dating progress, not a collection of random tips. the longer read is useful here because a simple visual can otherwise feel too thin. the voice can carry the missing context by explaining that seriousness, scale, and structure are exactly what make a system like this easier to trust.",
-      "word_count": 144,
-      "estimated_seconds": 58
+      "script": "serious systems usually leave signs of scale, structure, and repeated use. that matters because most men do not want to bet on vague advice with no real operating weight behind it. what makes a result like this useful is that it suggests a method sturdy enough to help more than a handful of people. torch method is supposed to feel like a real system for dating progress, not a pile of random tips. when there is enough structure behind the work, trust goes up, guesswork goes down, and the whole offer feels easier to take seriously.",
+      "word_count": 96,
+      "estimated_seconds": 38
     }
   ]
 }

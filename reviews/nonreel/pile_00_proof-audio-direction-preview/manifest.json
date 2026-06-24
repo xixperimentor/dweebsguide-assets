@@ -4,12 +4,13 @@
   "item_count": 12,
   "source_queue_kind": "proof-conversion direction preview",
   "voice_rule": "all proof narration in this preview is third-person brand voice only. every family gets audio, including stats. standard onyx is the default voice for the full batch unless changed later.",
-  "approval_prompt": "approve the overall direction, then i can generate the full proof batch in this style.",
+  "approval_prompt": "approve the overall consumer-facing direction, then i can generate the full proof batch in this style.",
   "direction_changes": [
     "all proof families narrated",
     "third-person brand voice only",
+    "consumer-facing narration",
     "standard onyx default voice",
-    "denser 60-to-90-second target range",
+    "30-to-60-second target range",
     "stats assets explained, not left music-only"
   ],
   "family_counts": {
